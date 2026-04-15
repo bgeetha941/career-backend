@@ -1,0 +1,303 @@
+{
+    "name": "Civil Engineering",
+    "domain": "Civil",
+    "description": "Test your Civil Engineering fundamentals across structural, environmental, and construction domains.",
+    "duration": 30,
+    "total_marks": 20,
+    "sections": {
+        "technical": {
+            "weight": 60,
+            "label": "Technical Skills"
+        },
+        "aptitude": {
+            "weight": 25,
+            "label": "Aptitude & Logic"
+        },
+        "interview": {
+            "weight": 15,
+            "label": "Interview Readiness"
+        }
+    },
+    "questions": [
+        {
+            "id": 1,
+            "section": "technical",
+            "skill": "Structural Analysis",
+            "question": "What is a statically determinate structure?",
+            "options": [
+                "Cannot be analyzed",
+                "Reactions can be found using equilibrium equations alone",
+                "Has infinite solutions",
+                "Requires matrix methods"
+            ],
+            "correct_answer": "Reactions can be found using equilibrium equations alone",
+            "explanation": "In statically determinate structures, all reactions and internal forces can be found using equilibrium equations."
+        },
+        {
+            "id": 2,
+            "section": "technical",
+            "skill": "Concrete Technology",
+            "question": "What is the standard curing period for concrete?",
+            "options": [
+                "7 days",
+                "14 days",
+                "28 days",
+                "3 days"
+            ],
+            "correct_answer": "28 days",
+            "explanation": "Concrete achieves its design strength (characteristic strength) after 28 days of curing."
+        },
+        {
+            "id": 3,
+            "section": "technical",
+            "skill": "Soil Mechanics",
+            "question": "Which test determines the bearing capacity of soil?",
+            "options": [
+                "Proctor test",
+                "Plate load test",
+                "Sieve analysis",
+                "Atterberg limits"
+            ],
+            "correct_answer": "Plate load test",
+            "explanation": "Plate load test directly measures the bearing capacity of soil at the foundation level."
+        },
+        {
+            "id": 4,
+            "section": "technical",
+            "skill": "Surveying",
+            "question": "What instrument is used for measuring horizontal and vertical angles?",
+            "options": [
+                "Chain",
+                "Theodolite",
+                "Dumpy Level",
+                "Ranging Rod"
+            ],
+            "correct_answer": "Theodolite",
+            "explanation": "A theodolite is a precision instrument for measuring horizontal and vertical angles in surveying."
+        },
+        {
+            "id": 5,
+            "section": "technical",
+            "skill": "Environmental Engineering",
+            "question": "BOD stands for?",
+            "options": [
+                "Biological Oxygen Demand",
+                "Bio-Organic Decomposition",
+                "Basic Oxide Dilution",
+                "Balanced Oxygen Distribution"
+            ],
+            "correct_answer": "Biological Oxygen Demand",
+            "explanation": "BOD measures the oxygen needed by microorganisms to decompose organic matter in water."
+        },
+        {
+            "id": 6,
+            "section": "technical",
+            "skill": "Transportation Engineering",
+            "question": "What is the purpose of camber on a road surface?",
+            "options": [
+                "Aesthetic appeal",
+                "Drainage of rainwater",
+                "Increasing speed",
+                "Reducing material use"
+            ],
+            "correct_answer": "Drainage of rainwater",
+            "explanation": "Camber is the transverse slope given to road surface to drain rainwater quickly."
+        },
+        {
+            "id": 7,
+            "section": "technical",
+            "skill": "RCC Design",
+            "question": "What is the minimum grade of concrete for RCC work as per IS code?",
+            "options": [
+                "M10",
+                "M15",
+                "M20",
+                "M25"
+            ],
+            "correct_answer": "M20",
+            "explanation": "As per IS 456:2000, the minimum grade of concrete for RCC work is M20."
+        },
+        {
+            "id": 8,
+            "section": "technical",
+            "skill": "Fluid Mechanics",
+            "question": "Reynolds number is used to determine?",
+            "options": [
+                "Fluid pressure",
+                "Laminar or turbulent flow",
+                "Fluid density",
+                "Viscosity"
+            ],
+            "correct_answer": "Laminar or turbulent flow",
+            "explanation": "Reynolds number (Re) determines the flow regime — Re < 2000 is laminar, Re > 4000 is turbulent."
+        },
+        {
+            "id": 9,
+            "section": "technical",
+            "skill": "Construction Management",
+            "question": "CPM in project management stands for?",
+            "options": [
+                "Cost Per Material",
+                "Critical Path Method",
+                "Construction Planning Method",
+                "Central Project Management"
+            ],
+            "correct_answer": "Critical Path Method",
+            "explanation": "CPM identifies the longest sequence of dependent tasks to determine minimum project duration."
+        },
+        {
+            "id": 10,
+            "section": "technical",
+            "skill": "Steel Structures",
+            "question": "What type of connection provides both fixity and rotational resistance?",
+            "options": [
+                "Pinned connection",
+                "Roller support",
+                "Rigid (moment) connection",
+                "Simple connection"
+            ],
+            "correct_answer": "Rigid (moment) connection",
+            "explanation": "Rigid connections transfer both forces and moments, providing full fixity."
+        },
+        {
+            "id": 11,
+            "section": "technical",
+            "skill": "Geotechnical",
+            "question": "What does the SPT (Standard Penetration Test) measure?",
+            "options": [
+                "Water content",
+                "Soil resistance to penetration (N-value)",
+                "Permeability",
+                "pH of soil"
+            ],
+            "correct_answer": "Soil resistance to penetration (N-value)",
+            "explanation": "SPT measures the N-value (blow count) indicating soil density and strength."
+        },
+        {
+            "id": 12,
+            "section": "technical",
+            "skill": "Hydrology",
+            "question": "What is a hydrograph?",
+            "options": [
+                "Map of water bodies",
+                "Graph showing discharge vs time at a point",
+                "Water pressure chart",
+                "Rainfall prediction model"
+            ],
+            "correct_answer": "Graph showing discharge vs time at a point",
+            "explanation": "A hydrograph plots the rate of flow (discharge) versus time at a specific point in a river."
+        },
+        {
+            "id": 13,
+            "section": "aptitude",
+            "skill": "Problem Solving",
+            "question": "A beam of span 6m carries a UDL of 10 kN/m. Maximum bending moment at center?",
+            "options": [
+                "45 kNm",
+                "60 kNm",
+                "30 kNm",
+                "90 kNm"
+            ],
+            "correct_answer": "45 kNm",
+            "explanation": "For UDL, M_max = wL²/8 = 10 × 36 / 8 = 45 kNm."
+        },
+        {
+            "id": 14,
+            "section": "aptitude",
+            "skill": "Numerical Ability",
+            "question": "A concrete mix ratio is 1:2:4. For 1 bag of cement (50kg), how much coarse aggregate is needed?",
+            "options": [
+                "100 kg",
+                "150 kg",
+                "200 kg",
+                "250 kg"
+            ],
+            "correct_answer": "200 kg",
+            "explanation": "Ratio 1:2:4 means for 1 part cement (50kg), coarse aggregate = 4 × 50 = 200 kg."
+        },
+        {
+            "id": 15,
+            "section": "aptitude",
+            "skill": "Logical Reasoning",
+            "question": "If all high-rise buildings need deep foundations, and Building X is a high-rise, then?",
+            "options": [
+                "X may need deep foundations",
+                "X definitely needs deep foundations",
+                "X needs shallow foundations",
+                "Cannot determine"
+            ],
+            "correct_answer": "X definitely needs deep foundations",
+            "explanation": "Direct logical deduction: All high-rises need deep foundations, X is high-rise, so X needs deep foundations."
+        },
+        {
+            "id": 16,
+            "section": "aptitude",
+            "skill": "Estimation",
+            "question": "A water tank of 5m × 4m × 3m dimensions. What is the volume of water it can hold?",
+            "options": [
+                "60,000 liters",
+                "12,000 liters",
+                "6,000 liters",
+                "120,000 liters"
+            ],
+            "correct_answer": "60,000 liters",
+            "explanation": "Volume = 5 × 4 × 3 = 60 m³. 1 m³ = 1000 liters. So 60,000 liters."
+        },
+        {
+            "id": 17,
+            "section": "aptitude",
+            "skill": "Data Interpretation",
+            "question": "A project estimated at 100 days is 60% complete after 70 days. Will it finish on time?",
+            "options": [
+                "Yes",
+                "No, it will be delayed",
+                "Exactly on time",
+                "Cannot say"
+            ],
+            "correct_answer": "No, it will be delayed",
+            "explanation": "At current rate: 60% in 70 days → 100% needs ~117 days. 17 days delay expected."
+        },
+        {
+            "id": 18,
+            "section": "interview",
+            "skill": "Industry Knowledge",
+            "question": "What is BIM in modern civil engineering?",
+            "options": [
+                "Building Inspection Manual",
+                "Building Information Modeling",
+                "Bridge Installation Method",
+                "Basic Infrastructure Management"
+            ],
+            "correct_answer": "Building Information Modeling",
+            "explanation": "BIM creates digital representations of buildings for planning, design, construction, and management."
+        },
+        {
+            "id": 19,
+            "section": "interview",
+            "skill": "Communication",
+            "question": "A client asks why the project cost increased. Best response?",
+            "options": [
+                "Blame the contractor",
+                "Provide detailed cost breakdown with justification for changes",
+                "Say costs always increase",
+                "Ignore the question"
+            ],
+            "correct_answer": "Provide detailed cost breakdown with justification for changes",
+            "explanation": "Transparency with data builds trust and demonstrates professional project management."
+        },
+        {
+            "id": 20,
+            "section": "interview",
+            "skill": "Safety",
+            "question": "What is the first priority on any construction site?",
+            "options": [
+                "Speed of completion",
+                "Cost reduction",
+                "Safety of workers",
+                "Material quality"
+            ],
+            "correct_answer": "Safety of workers",
+            "explanation": "Worker safety is always the top priority, governed by safety regulations and ethical responsibility."
+        }
+    ]
+}

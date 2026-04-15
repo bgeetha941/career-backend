@@ -1,0 +1,303 @@
+{
+    "name": "Aerospace Engineering",
+    "domain": "Aerospace",
+    "description": "Evaluate your knowledge in Aerodynamics, Propulsion, Flight Mechanics, and Structures.",
+    "duration": 30,
+    "total_marks": 20,
+    "sections": {
+        "technical": {
+            "weight": 60,
+            "label": "Technical Skills"
+        },
+        "aptitude": {
+            "weight": 25,
+            "label": "Aptitude & Logic"
+        },
+        "interview": {
+            "weight": 15,
+            "label": "Interview Readiness"
+        }
+    },
+    "questions": [
+        {
+            "id": 1,
+            "section": "technical",
+            "skill": "Aerodynamics",
+            "question": "Bernoulli's principle states that as speed increases, pressure:",
+            "options": [
+                "Increases",
+                "Decreases",
+                "Remains constant",
+                "Fluctuates"
+            ],
+            "correct_answer": "Decreases",
+            "explanation": "Bernoulli's principle: Increase in fluid speed occurs simultaneously with a decrease in static pressure."
+        },
+        {
+            "id": 2,
+            "section": "technical",
+            "skill": "Propulsion",
+            "question": "Which engine is most suitable for hypersonic flight?",
+            "options": [
+                "Turbofan",
+                "Turbojet",
+                "Scramjet",
+                "Piston"
+            ],
+            "correct_answer": "Scramjet",
+            "explanation": "Scramjets (Supersonic Combustion Ramjets) are designed for hypersonic speeds (Mach 5+)."
+        },
+        {
+            "id": 3,
+            "section": "technical",
+            "skill": "Flight Mechanics",
+            "question": "Which control surface controls Pitch?",
+            "options": [
+                "Ailerons",
+                "Rudder",
+                "Elevators",
+                "Flaps"
+            ],
+            "correct_answer": "Elevators",
+            "explanation": "Elevators on the horizontal stabilizer control the pitch (nose up/down) of the aircraft."
+        },
+        {
+            "id": 4,
+            "section": "technical",
+            "skill": "Structures",
+            "question": "The primary load-bearing component of a wing is:",
+            "options": [
+                "Ribs",
+                "Spar",
+                "Skin",
+                "Stringer"
+            ],
+            "correct_answer": "Spar",
+            "explanation": "The Spar runs the span of the wing and carries the majority of the bending load."
+        },
+        {
+            "id": 5,
+            "section": "technical",
+            "skill": "Aerodynamics",
+            "question": "What happens to drag as an aircraft approaches the speed of sound?",
+            "options": [
+                "Decreases",
+                "Increases sharply (Wave Drag)",
+                "Remains constant",
+                "Disappears"
+            ],
+            "correct_answer": "Increases sharply (Wave Drag)",
+            "explanation": "Transonic drag rise (Wave Drag) occurs due to shock wave formation near Mach 1."
+        },
+        {
+            "id": 6,
+            "section": "technical",
+            "skill": "Avionics",
+            "question": "Which sensor measures altitude?",
+            "options": [
+                "Pitot Tube",
+                "Altimeter",
+                "Gyroscope",
+                "Accelerometer"
+            ],
+            "correct_answer": "Altimeter",
+            "explanation": "An Altimeter measures altitude, typically barometric pressure altitude."
+        },
+        {
+            "id": 7,
+            "section": "technical",
+            "skill": "Orbital Mechanics",
+            "question": "Kepler's First Law states that orbits are:",
+            "options": [
+                "Circular",
+                "Elliptical",
+                "Parabolic",
+                "Hyperbolic"
+            ],
+            "correct_answer": "Elliptical",
+            "explanation": "Planets/Satellites move in elliptical orbits with the central body at one focus."
+        },
+        {
+            "id": 8,
+            "section": "technical",
+            "skill": "Propulsion",
+            "question": "Bypass ratio is a key parameter for:",
+            "options": [
+                "Rocket engines",
+                "Turbofan engines",
+                "Piston engines",
+                "Electric motors"
+            ],
+            "correct_answer": "Turbofan engines",
+            "explanation": "High bypass ratio turbofans are used in commercial airliners for efficiency and noise reduction."
+        },
+        {
+            "id": 9,
+            "section": "technical",
+            "skill": "Flight Mechanics",
+            "question": "Which stability ensures the aircraft returns to equilibrium after a disturbance?",
+            "options": [
+                "Static Stability",
+                "Dynamic Stability",
+                "Maneuverability",
+                "Controllability"
+            ],
+            "correct_answer": "Static Stability",
+            "explanation": "Positive static stability means the initial tendency is to return to equilibrium."
+        },
+        {
+            "id": 10,
+            "section": "technical",
+            "skill": "Structures",
+            "question": "Which material is widely used for modern aircraft skin due to light weight?",
+            "options": [
+                "Cast Iron",
+                "Carbon Fiber / Composites",
+                "Steel",
+                "Copper"
+            ],
+            "correct_answer": "Carbon Fiber / Composites",
+            "explanation": "Composite materials offer high strength-to-weight ratios essential for modern aerospace."
+        },
+        {
+            "id": 11,
+            "section": "technical",
+            "skill": "Aerodynamics",
+            "question": "The angle between the chord line and relative wind is:",
+            "options": [
+                "Angle of Incidence",
+                "Angle of Attack",
+                "Glide Angle",
+                "Bank Angle"
+            ],
+            "correct_answer": "Angle of Attack",
+            "explanation": "Angle of Attack (AoA) determines the lift generated."
+        },
+        {
+            "id": 12,
+            "section": "technical",
+            "skill": "Avionics",
+            "question": "Fly-by-wire implies:",
+            "options": [
+                "Mechanical cables",
+                "Electronic interface controls flight surfaces",
+                "Wireless control",
+                "No pilot"
+            ],
+            "correct_answer": "Electronic interface controls flight surfaces",
+            "explanation": "Fly-by-wire replaces mechanical linkages with electronic signals."
+        },
+        {
+            "id": 13,
+            "section": "aptitude",
+            "skill": "Problem Solving",
+            "question": "Speed = Mach 2. Speed of sound = 340 m/s. Aircraft speed?",
+            "options": [
+                "340 m/s",
+                "680 m/s",
+                "170 m/s",
+                "1000 m/s"
+            ],
+            "correct_answer": "680 m/s",
+            "explanation": "Speed = Mach Number * Speed of Sound = 2 * 340 = 680 m/s."
+        },
+        {
+            "id": 14,
+            "section": "aptitude",
+            "skill": "Logical Reasoning",
+            "question": "Wing : Lift :: Engine : ?",
+            "options": [
+                "Drag",
+                "Thrust",
+                "Weight",
+                "Fuel"
+            ],
+            "correct_answer": "Thrust",
+            "explanation": "Wings generate Lift; Engines generate Thrust."
+        },
+        {
+            "id": 15,
+            "section": "aptitude",
+            "skill": "Data Interpretation",
+            "question": "Lift/Drag ratio is 10. If Drag is 2000N, what is Lift?",
+            "options": [
+                "200N",
+                "20000N",
+                "20N",
+                "1000N"
+            ],
+            "correct_answer": "20000N",
+            "explanation": "L = (L/D) * D = 10 * 2000 = 20,000 N."
+        },
+        {
+            "id": 16,
+            "section": "aptitude",
+            "skill": "Time Management",
+            "question": "Check-in closes 45 mins before flight. Flight at 10:00. Latest check-in?",
+            "options": [
+                "9:15",
+                "9:45",
+                "10:45",
+                "9:30"
+            ],
+            "correct_answer": "9:15",
+            "explanation": "10:00 minus 45 mins is 9:15."
+        },
+        {
+            "id": 17,
+            "section": "aptitude",
+            "skill": "Pattern Recognition",
+            "question": "G-Force: 1g, 2g, 4g, ?",
+            "options": [
+                "6g",
+                "8g",
+                "5g",
+                "10g"
+            ],
+            "correct_answer": "8g",
+            "explanation": "Doubling pattern: 1, 2, 4 -> 8."
+        },
+        {
+            "id": 18,
+            "section": "interview",
+            "skill": "Technical Explanation",
+            "question": "How does a wing generate lift?",
+            "options": [
+                "Magic",
+                "Pressure difference (Bernoulli) and Flow Turning (Newton)",
+                "Engines push it up",
+                "It is lighter than air"
+            ],
+            "correct_answer": "Pressure difference (Bernoulli) and Flow Turning (Newton)",
+            "explanation": "Lift works via lower pressure on top (Bernoulli) and deflecting air downwards (Newton's 3rd Law)."
+        },
+        {
+            "id": 19,
+            "section": "interview",
+            "skill": "Problem Solving",
+            "question": "What would you do if an engine fails during takeoff?",
+            "options": [
+                "Panic",
+                "Abort if below V1 speed, Continue if above V1",
+                "Always stop",
+                "Always fly"
+            ],
+            "correct_answer": "Abort if below V1 speed, Continue if above V1",
+            "explanation": "Standard procedure: V1 is the decision speed. Below V1, abort. Above V1, engage and handle in air."
+        },
+        {
+            "id": 20,
+            "section": "interview",
+            "skill": "Project Discussion",
+            "question": "Describe a challenge in your drone project.",
+            "options": [
+                "Everything was perfect",
+                "Battery overheated, so I added cooling vents",
+                "I bought it online",
+                "It flew away"
+            ],
+            "correct_answer": "Battery overheated, so I added cooling vents",
+            "explanation": "Discussing a specific technical problem and your solution demonstrates engineering skills."
+        }
+    ]
+}

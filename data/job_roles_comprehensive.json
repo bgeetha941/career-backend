@@ -1,0 +1,1822 @@
+[
+    {
+        "name": "Software Engineer",
+        "domain": "Computer Science",
+        "required_skills": [
+            "python",
+            "java",
+            "sql",
+            "git",
+            "api",
+            "data structures",
+            "algorithms"
+        ],
+        "preferred_skills": [
+            "docker",
+            "kubernetes",
+            "microservices",
+            "rest api"
+        ],
+        "tools": [
+            "git",
+            "jira",
+            "jenkins",
+            "postman"
+        ],
+        "trending_2025": [
+            "generative ai",
+            "llms",
+            "langchain",
+            "mlops"
+        ],
+        "market_demand": "High",
+        "recommended_courses": [
+            "Full Stack Development - Coursera",
+            "System Design - educative.io",
+            "Data Structures & Algorithms - FreeCodeCamp"
+        ],
+        "free_internships": [
+            "Google Summer of Code",
+            "Outreachy",
+            "MLH Fellowship"
+        ],
+        "certifications": [
+            "AWS Certified Developer Associate",
+            "Google Cloud Professional Developer",
+            "Oracle Certified Java Programmer"
+        ],
+        "mini_projects": [
+            "E-commerce REST API with Authentication",
+            "Real-time Chat Application",
+            "Task Management System with Microservices"
+        ],
+        "learning_roadmap": {
+            "month_1": [
+                "Master Data Structures",
+                "Learn Git & Version Control",
+                "Build 2 CLI Projects"
+            ],
+            "month_2": [
+                "Deep Dive into Algorithms",
+                "Learn REST API Design",
+                "Build Full Stack CRUD App"
+            ],
+            "month_3": [
+                "System Design Basics",
+                "Docker & Containerization",
+                "Deploy Projects to Cloud"
+            ],
+            "month_4": [
+                "Microservices Architecture",
+                "CI/CD Pipelines",
+                "Contribute to Open Source"
+            ],
+            "month_5": [
+                "Advanced System Design",
+                "Kubernetes Basics",
+                "Build Scalable Application"
+            ],
+            "month_6": [
+                "Trending Tech (AI/ML Integration)",
+                "Mock Interviews",
+                "Portfolio Optimization"
+            ]
+        }
+    },
+    {
+        "name": "Data Scientist",
+        "domain": "Computer Science",
+        "required_skills": [
+            "python",
+            "machine learning",
+            "statistics",
+            "sql",
+            "data visualization"
+        ],
+        "preferred_skills": [
+            "deep learning",
+            "nlp",
+            "computer vision",
+            "big data"
+        ],
+        "tools": [
+            "pandas",
+            "numpy",
+            "scikit-learn",
+            "tensorflow",
+            "pytorch",
+            "jupyter",
+            "tableau"
+        ],
+        "trending_2025": [
+            "llms",
+            "generative ai",
+            "mlops",
+            "langchain",
+            "vector databases"
+        ],
+        "market_demand": "High",
+        "recommended_courses": [
+            "Machine Learning Specialization - Coursera (Andrew Ng)",
+            "Deep Learning Specialization - Coursera",
+            "Data Science with Python - edX",
+            "SQL for Data Science - Khan Academy"
+        ],
+        "free_internships": [
+            "Kaggle Competitions",
+            "AICTE Data Science Internship",
+            "Omdena AI Projects"
+        ],
+        "certifications": [
+            "TensorFlow Developer Certificate",
+            "Google Data Analytics Professional Certificate",
+            "IBM Data Science Professional Certificate",
+            "Microsoft Certified: Azure Data Scientist Associate"
+        ],
+        "mini_projects": [
+            "House Price Prediction using Regression",
+            "Sentiment Analysis on Twitter Data",
+            "Image Classification with CNN",
+            "Recommendation System",
+            "Time Series Forecasting"
+        ],
+        "learning_roadmap": {
+            "month_1": [
+                "Python Fundamentals",
+                "Statistics Basics",
+                "Pandas & NumPy",
+                "Build EDA Project"
+            ],
+            "month_2": [
+                "Machine Learning Algorithms",
+                "Scikit-learn", 
+                "Build 3 ML Models"
+            ],
+            "month_3": [
+                "Deep Learning Basics",
+                "Neural Networks",
+                "TensorFlow/PyTorch",
+                "CNN Project"
+            ],
+            "month_4": [
+                "NLP Fundamentals",
+                "Transformers",
+                "Build Chatbot/Sentiment Analyzer"
+            ],
+            "month_5": [
+                "MLOps Basics",
+                "Model Deployment",
+                "Docker for ML",
+                "Deploy 2 Models"
+            ],
+            "month_6": [
+                "LLMs & Generative AI",
+                "LangChain",
+                "Vector DBs",
+                "Build AI Application"
+            ]
+        }
+    },
+    {
+        "name": "Frontend Developer",
+        "domain": "Computer Science",
+        "required_skills": [
+            "html",
+            "css",
+            "javascript",
+            "react",
+            "git"
+        ],
+        "preferred_skills": [
+            "typescript",
+            "next.js",
+            "tailwind css",
+            "responsive design"
+        ],
+        "tools": [
+            "vscode",
+            "figma",
+            "git",
+            "npm",
+            "webpack"
+        ],
+        "trending_2025": [
+            "react server components",
+            "web3",
+            "pwa",
+            "micro frontends"
+        ],
+        "market_demand": "High",
+        "recommended_courses": [
+            "React - The Complete Guide - Udemy (Free Audit)",
+            "Advanced CSS and Sass - Udemy",
+            "JavaScript Algorithms - FreeCodeCamp",
+            "Responsive Web Design - FreeCodeCamp"
+        ],
+        "free_internships": [
+            "Frontend Mentor Challenges",
+            "Internshala (Filter: Unpaid/Stipend)",
+            "Google Season of Docs"
+        ],
+        "certifications": [
+            "Meta Frontend Developer Professional Certificate",
+            "freeCodeCamp Responsive Web Design",
+            "Google UX Design Certificate"
+        ],
+        "mini_projects": [
+            "Portfolio Website with Animations",
+            "Weather App using API",
+            "E-commerce Product Page",
+            "Todo App with Local Storage",
+            "Netflix Clone UI"
+        ],
+        "learning_roadmap": {
+            "month_1": [
+                "HTML5 & CSS3 Mastery",
+                "Flexbox & Grid",
+                "Build 3 Static Sites"
+            ],
+            "month_2": [
+                "JavaScript ES6+",
+                "DOM Manipulation",
+                "Build Interactive Projects"
+            ],
+            "month_3": [
+                "React Fundamentals",
+                "Components & Props",
+                "Build React Apps"
+            ],
+            "month_4": [
+                "State Management",
+                "React Hooks",
+                "API Integration",
+                "Build Full App"
+            ],
+            "month_5": [
+                "TypeScript",
+                "Next.js Basics",
+                "Build SSR Application"
+            ],
+            "month_6": [
+                "Performance Optimization",
+                "Testing",
+                "Deploy Portfolio",
+                "Contribute to Open Source"
+            ]
+        }
+    },
+    {
+        "name": "Backend Developer",
+        "domain": "Computer Science",
+        "required_skills": [
+            "python",
+            "node.js",
+            "sql",
+            "rest api",
+            "git"
+        ],
+        "preferred_skills": [
+            "graphql",
+            "microservices",
+            "redis",
+            "message queues"
+        ],
+        "tools": [
+            "docker",
+            "postman",
+            "mongodb",
+            "postgresql",
+            "redis"
+        ],
+        "trending_2025": [
+            "serverless",
+            "grpc",
+            "event-driven architecture",
+            "api gateway"
+        ],
+        "market_demand": "High",
+        "recommended_courses": [
+            "Node.js - The Complete Guide - Udemy",
+            "Django for Beginners - Mozilla Developer",
+            "Database Design - Khan Academy",
+            "Microservices Architecture - edX"
+        ],
+        "free_internships": [
+            "AICTE Backend Development Internship",
+            "Internshala",
+            "HackerRank Challenges"
+        ],
+        "certifications": [
+            "AWS Certified Solutions Architect",
+            "MongoDB Certified Developer",
+            "Oracle Database SQL Certified Associate"
+        ],
+        "mini_projects": [
+            "RESTful API for Blog Platform",
+            "Authentication System with JWT",
+            "Real-time Notification Service",
+            "File Upload Service with S3",
+            "Payment Gateway Integration"
+        ],
+        "learning_roadmap": {
+            "month_1": [
+                "Backend Fundamentals",
+                "HTTP & REST",
+                "Build Simple API"
+            ],
+            "month_2": [
+                "Database Design",
+                "SQL Mastery",
+                "ORM",
+                "Build CRUD API"
+            ],
+            "month_3": [
+                "Authentication & Authorization",
+                "JWT",
+                "Build Secure API"
+            ],
+            "month_4": [
+                "Microservices Basics",
+                "Docker",
+                "Build Microservice"
+            ],
+            "month_5": [
+                "Message Queues",
+                "Caching",
+                "Build Scalable System"
+            ],
+            "month_6": [
+                "Cloud Deployment",
+                "CI/CD",
+                "Monitoring",
+                "Deploy Production App"
+            ]
+        }
+    },
+    {
+        "name": "DevOps Engineer",
+        "domain": "Computer Science",
+        "required_skills": [
+            "linux",
+            "docker",
+            "kubernetes",
+            "ci/cd",
+            "git",
+            "scripting"
+        ],
+        "preferred_skills": [
+            "terraform",
+            "ansible",
+            "jenkins",
+            "monitoring"
+        ],
+        "tools": [
+            "docker",
+            "kubernetes",
+            "jenkins",
+            "terraform",
+            "ansible",
+            "prometheus",
+            "grafana"
+        ],
+        "trending_2025": [
+            "gitops",
+            "platform engineering",
+            "observability",
+            "sre"
+        ],
+        "market_demand": "High",
+        "recommended_courses": [
+            "Docker Mastery - Udemy",
+            "Kubernetes for Beginners - KodeKloud (Free)",
+            "Linux Fundamentals - edX",
+            "CI/CD with Jenkins - Coursera"
+        ],
+        "free_internships": [
+            "Linux Foundation Mentorship",
+            "CNCF Internships",
+            "Outreachy"
+        ],
+        "certifications": [
+            "AWS Certified DevOps Engineer",
+            "Certified Kubernetes Administrator (CKA)",
+            "Docker Certified Associate",
+            "HashiCorp Certified: Terraform Associate"
+        ],
+        "mini_projects": [
+            "Dockerize Multi-tier Application",
+            "CI/CD Pipeline with Jenkins",
+            "Kubernetes Cluster Setup",
+            "Infrastructure as Code with Terraform",
+            "Monitoring Stack with Prometheus & Grafana"
+        ],
+        "learning_roadmap": {
+            "month_1": [
+                "Linux Command Line",
+                "Shell Scripting",
+                "Git Advanced"
+            ],
+            "month_2": [
+                "Docker Fundamentals",
+                "Containerization",
+                "Build Docker Images"
+            ],
+            "month_3": [
+                "Kubernetes Basics",
+                "Deploy Apps to K8s",
+                "Helm Charts"
+            ],
+            "month_4": [
+                "CI/CD Pipelines",
+                "Jenkins",
+                "GitLab CI",
+                "Automate Deployments"
+            ],
+            "month_5": [
+                "Infrastructure as Code",
+                "Terraform",
+                "Ansible",
+                "Build IaC Projects"
+            ],
+            "month_6": [
+                "Monitoring & Logging",
+                "Prometheus",
+                "Grafana",
+                "Build Observability Stack"
+            ]
+        }
+    },
+    {
+        "name": "Mobile App Developer",
+        "domain": "Computer Science",
+        "required_skills": [
+            "flutter",
+            "dart",
+            "mobile ui",
+            "rest api",
+            "git"
+        ],
+        "preferred_skills": [
+            "firebase",
+            "state management",
+            "native development",
+            "app deployment"
+        ],
+        "tools": [
+            "android studio",
+            "xcode",
+            "firebase",
+            "git",
+            "figma"
+        ],
+        "trending_2025": [
+            "flutter 3.x",
+            "jetpack compose",
+            "swiftui",
+            "cross-platform"
+        ],
+        "market_demand": "High",
+        "recommended_courses": [
+            "Flutter & Dart - The Complete Guide - Udemy",
+            "Android Development - Google Codelabs",
+            "iOS Development - Apple Developer",
+            "Firebase for Mobile - Google"
+        ],
+        "free_internships": [
+            "Google Summer of Code (Mobile Projects)",
+            "Internshala Mobile Development",
+            "Freelance Projects on Fiverr"
+        ],
+        "certifications": [
+            "Google Associate Android Developer",
+            "Meta Android Developer Professional Certificate",
+            "iOS App Development with Swift - Coursera"
+        ],
+        "mini_projects": [
+            "Todo App with Local Storage",
+            "Weather App with API Integration",
+            "E-commerce App UI",
+            "Chat Application with Firebase",
+            "Expense Tracker App"
+        ],
+        "learning_roadmap": {
+            "month_1": [
+                "Flutter Basics",
+                "Dart Programming",
+                "Build 3 Simple Apps"
+            ],
+            "month_2": [
+                "State Management",
+                "Provider/Riverpod",
+                "Build Stateful Apps"
+            ],
+            "month_3": [
+                "API Integration",
+                "HTTP Requests",
+                "Build API-driven App"
+            ],
+            "month_4": [
+                "Firebase Integration",
+                "Authentication",
+                "Build Full App"
+            ],
+            "month_5": [
+                "Advanced UI",
+                "Animations",
+                "Platform-specific Code"
+            ],
+            "month_6": [
+                "App Deployment",
+                "Play Store/App Store",
+                "Publish 2 Apps"
+            ]
+        }
+    },
+    {
+        "name": "Cybersecurity Analyst",
+        "domain": "Computer Science",
+        "required_skills": [
+            "networking",
+            "linux",
+            "security fundamentals",
+            "python",
+            "cryptography"
+        ],
+        "preferred_skills": [
+            "penetration testing",
+            "incident response",
+            "siem",
+            "threat intelligence"
+        ],
+        "tools": [
+            "wireshark",
+            "metasploit",
+            "burp suite",
+            "nmap",
+            "kali linux"
+        ],
+        "trending_2025": [
+            "zero trust",
+            "cloud security",
+            "ai in security",
+            "devsecops"
+        ],
+        "market_demand": "High",
+        "recommended_courses": [
+            "Cybersecurity Fundamentals - Coursera",
+            "Ethical Hacking - edX",
+            "Network Security - Cisco Networking Academy",
+            "Python for Cybersecurity - Udemy"
+        ],
+        "free_internships": [
+            "AICTE Cybersecurity Internship",
+            "HackerOne Bug Bounty",
+            "TryHackMe Challenges"
+        ],
+        "certifications": [
+            "CompTIA Security+",
+            "Certified Ethical Hacker (CEH)",
+            "Google Cybersecurity Professional Certificate",
+            "CISSP"
+        ],
+        "mini_projects": [
+            "Network Scanner Tool",
+            "Password Strength Checker",
+            "Vulnerability Assessment Report",
+            "Intrusion Detection System",
+            "Security Audit Automation Script"
+        ],
+        "learning_roadmap": {
+            "month_1": [
+                "Networking Fundamentals",
+                "TCP/IP",
+                "OSI Model",
+                "Linux Basics"
+            ],
+            "month_2": [
+                "Security Fundamentals",
+                "Cryptography",
+                "Authentication"
+            ],
+            "month_3": [
+                "Ethical Hacking Basics",
+                "Reconnaissance",
+                "Scanning"
+            ],
+            "month_4": [
+                "Web Application Security",
+                "OWASP Top 10",
+                "Burp Suite"
+            ],
+            "month_5": [
+                "Network Security",
+                "Firewalls",
+                "IDS/IPS",
+                "SIEM"
+            ],
+            "month_6": [
+                "Incident Response",
+                "Forensics",
+                "Build Security Projects"
+            ]
+        }
+    },
+    {
+        "name": "AI/ML Engineer",
+        "domain": "Computer Science",
+        "required_skills": [
+            "python",
+            "machine learning",
+            "deep learning",
+            "mathematics",
+            "data preprocessing"
+        ],
+        "preferred_skills": [
+            "nlp",
+            "computer vision",
+            "reinforcement learning",
+            "model optimization"
+        ],
+        "tools": [
+            "tensorflow",
+            "pytorch",
+            "scikit-learn",
+            "opencv",
+            "hugging face"
+        ],
+        "trending_2025": [
+            "llms",
+            "generative ai",
+            "stable diffusion",
+            "langchain",
+            "vector databases"
+        ],
+        "market_demand": "Very High",
+        "recommended_courses": [
+            "Deep Learning Specialization - Coursera",
+            "Natural Language Processing - Hugging Face",
+            "Computer Vision - Stanford Online",
+            "Reinforcement Learning - DeepMind"
+        ],
+        "free_internships": [
+            "Google AI Residency",
+            "OpenAI Scholars",
+            "Kaggle Competitions"
+        ],
+        "certifications": [
+            "TensorFlow Developer Certificate",
+            "AWS Certified Machine Learning Specialty",
+            "Microsoft Certified: Azure AI Engineer"
+        ],
+        "mini_projects": [
+            "Image Classification with Transfer Learning",
+            "Chatbot using Transformers",
+            "Object Detection System",
+            "Text Generation with GPT",
+            "Recommendation Engine"
+        ],
+        "learning_roadmap": {
+            "month_1": [
+                "Python for AI",
+                "NumPy & Pandas",
+                "Mathematics for ML"
+            ],
+            "month_2": [
+                "Machine Learning Algorithms",
+                "Scikit-learn",
+                "Build ML Models"
+            ],
+            "month_3": [
+                "Deep Learning",
+                "Neural Networks",
+                "TensorFlow/PyTorch"
+            ],
+            "month_4": [
+                "NLP Fundamentals",
+                "Transformers",
+                "Build NLP Projects"
+            ],
+            "month_5": [
+                "Computer Vision",
+                "CNNs",
+                "Object Detection",
+                "Build CV Projects"
+            ],
+            "month_6": [
+                "LLMs & Generative AI",
+                "Fine-tuning",
+                "Build AI Application"
+            ]
+        }
+    },
+    {
+        "name": "Embedded Systems Engineer",
+        "domain": "Electronics & Communication",
+        "required_skills": [
+            "c",
+            "c++",
+            "microcontrollers",
+            "embedded c",
+            "rtos"
+        ],
+        "preferred_skills": [
+            "arm cortex",
+            "fpga",
+            "communication protocols",
+            "device drivers"
+        ],
+        "tools": [
+            "keil",
+            "mplab",
+            "arduino ide",
+            "stm32cube",
+            "oscilloscope"
+        ],
+        "trending_2025": [
+            "iot",
+            "edge ai",
+            "automotive embedded",
+            "risc-v"
+        ],
+        "market_demand": "High",
+        "recommended_courses": [
+            "Embedded Systems - edX",
+            "ARM Cortex-M Programming - Udemy",
+            "RTOS Fundamentals - FreeRTOS",
+            "IoT Specialization - Coursera"
+        ],
+        "free_internships": [
+            "AICTE Embedded Systems Internship",
+            "Arduino Projects",
+            "Hackster.io Challenges"
+        ],
+        "certifications": [
+            "ARM Accredited Engineer",
+            "Embedded Systems Professional Certificate",
+            "IoT Fundamentals - Cisco"
+        ],
+        "mini_projects": [
+            "Home Automation System",
+            "Temperature Monitoring with IoT",
+            "Line Following Robot",
+            "RFID Access Control System",
+            "Smart Irrigation System"
+        ],
+        "learning_roadmap": {
+            "month_1": [
+                "C Programming",
+                "Microcontroller Basics",
+                "GPIO Programming"
+            ],
+            "month_2": [
+                "Timers & Interrupts",
+                "ADC/DAC",
+                "Build Sensor Projects"
+            ],
+            "month_3": [
+                "Communication Protocols",
+                "UART/SPI/I2C",
+                "Build Communication Projects"
+            ],
+            "month_4": [
+                "RTOS Basics",
+                "Task Scheduling",
+                "Build RTOS Project"
+            ],
+            "month_5": [
+                "IoT Integration",
+                "MQTT",
+                "Cloud Connectivity"
+            ],
+            "month_6": [
+                "Advanced Projects",
+                "Edge AI",
+                "Build Complete IoT System"
+            ]
+        }
+    },
+    {
+        "name": "VLSI Design Engineer",
+        "domain": "Electronics & Communication",
+        "required_skills": [
+            "verilog",
+            "vhdl",
+            "digital design",
+            "fpga",
+            "rtl design"
+        ],
+        "preferred_skills": [
+            "system verilog",
+            "uvm",
+            "synthesis",
+            "timing analysis"
+        ],
+        "tools": [
+            "xilinx vivado",
+            "modelsim",
+            "cadence",
+            "synopsys",
+            "quartus"
+        ],
+        "trending_2025": [
+            "chiplet design",
+            "3d ic",
+            "ai accelerators",
+            "risc-v"
+        ],
+        "market_demand": "High",
+        "recommended_courses": [
+            "VLSI Design - NPTEL",
+            "FPGA Programming - Coursera",
+            "Digital Design - edX",
+            "SystemVerilog for Verification - Udemy"
+        ],
+        "free_internships": [
+            "AICTE VLSI Internship",
+            "Semiconductor Companies Internships",
+            "Research Labs"
+        ],
+        "certifications": [
+            "Xilinx Certified Design Professional",
+            "Cadence Certified Professional",
+            "ARM SoC Design Certificate"
+        ],
+        "mini_projects": [
+            "4-bit ALU Design",
+            "UART Protocol Implementation",
+            "FIFO Memory Design",
+            "Image Processing on FPGA",
+            "RISC Processor Design"
+        ],
+        "learning_roadmap": {
+            "month_1": [
+                "Digital Logic Design",
+                "Boolean Algebra",
+                "Combinational Circuits"
+            ],
+            "month_2": [
+                "Sequential Circuits",
+                "FSM Design",
+                "Verilog Basics"
+            ],
+            "month_3": [
+                "RTL Design",
+                "Synthesis",
+                "Build Basic Designs"
+            ],
+            "month_4": [
+                "FPGA Programming",
+                "Xilinx Vivado",
+                "Build FPGA Projects"
+            ],
+            "month_5": [
+                "Verification",
+                "Testbenches",
+                "SystemVerilog Basics"
+            ],
+            "month_6": [
+                "Advanced Projects",
+                "SoC Design",
+                "Build Complete System"
+            ]
+        }
+    },
+    {
+        "name": "Signal Processing Engineer",
+        "domain": "Electronics & Communication",
+        "required_skills": [
+            "matlab",
+            "python",
+            "dsp",
+            "signal analysis",
+            "mathematics"
+        ],
+        "preferred_skills": [
+            "image processing",
+            "audio processing",
+            "filter design",
+            "communication systems"
+        ],
+        "tools": [
+            "matlab",
+            "simulink",
+            "python",
+            "labview",
+            "gnu radio"
+        ],
+        "trending_2025": [
+            "ai in signal processing",
+            "5g",
+            "radar systems",
+            "biomedical signals"
+        ],
+        "market_demand": "Medium",
+        "recommended_courses": [
+            "Digital Signal Processing - NPTEL",
+            "Image Processing - Coursera",
+            "Communication Systems - edX",
+            "MATLAB for Engineers - MathWorks"
+        ],
+        "free_internships": [
+            "Research Labs",
+            "DRDO Internships",
+            "University Research Projects"
+        ],
+        "certifications": [
+            "MATLAB Certified Professional",
+            "Signal Processing Specialization - Coursera"
+        ],
+        "mini_projects": [
+            "Audio Noise Reduction",
+            "ECG Signal Analysis",
+            "Image Enhancement System",
+            "Speech Recognition System",
+            "Digital Filter Design"
+        ],
+        "learning_roadmap": {
+            "month_1": [
+                "Signal Fundamentals",
+                "MATLAB Basics",
+                "Time & Frequency Domain"
+            ],
+            "month_2": [
+                "Digital Filters",
+                "FFT",
+                "Build Filter Projects"
+            ],
+            "month_3": [
+                "Image Processing",
+                "Convolution",
+                "Build Image Projects"
+            ],
+            "month_4": [
+                "Audio Processing",
+                "Speech Signals",
+                "Build Audio Projects"
+            ],
+            "month_5": [
+                "Communication Systems",
+                "Modulation",
+                "Build Communication Projects"
+            ],
+            "month_6": [
+                "Advanced Topics",
+                "AI in DSP",
+                "Build Complete System"
+            ]
+        }
+    },
+    {
+        "name": "Mechanical Design Engineer",
+        "domain": "Mechanical Engineering",
+        "required_skills": [
+            "cad",
+            "solidworks",
+            "autocad",
+            "engineering drawing",
+            "gd&t"
+        ],
+        "preferred_skills": [
+            "fea",
+            "cfd",
+            "ansys",
+            "product design",
+            "manufacturing"
+        ],
+        "tools": [
+            "solidworks",
+            "autocad",
+            "catia",
+            "creo",
+            "ansys"
+        ],
+        "trending_2025": [
+            "generative design",
+            "additive manufacturing",
+            "digital twin",
+            "simulation"
+        ],
+        "market_demand": "High",
+        "recommended_courses": [
+            "SolidWorks Essentials - Dassault Systèmes",
+            "AutoCAD Fundamentals - Autodesk",
+            "FEA with ANSYS - edX",
+            "Product Design - Coursera"
+        ],
+        "free_internships": [
+            "AICTE Mechanical Design Internship",
+            "Manufacturing Companies",
+            "Automotive Industry Internships"
+        ],
+        "certifications": [
+            "CSWA (Certified SolidWorks Associate)",
+            "AutoCAD Certified Professional",
+            "CATIA Certification"
+        ],
+        "mini_projects": [
+            "Mechanical Gripper Design",
+            "Gear Box Design",
+            "Heat Exchanger Design",
+            "Suspension System Design",
+            "3D Printed Prototype"
+        ],
+        "learning_roadmap": {
+            "month_1": [
+                "CAD Basics",
+                "SolidWorks Fundamentals",
+                "2D Sketching"
+            ],
+            "month_2": [
+                "3D Modeling",
+                "Assemblies",
+                "Build 5 CAD Models"
+            ],
+            "month_3": [
+                "Engineering Drawings",
+                "GD&T",
+                "Create Technical Drawings"
+            ],
+            "month_4": [
+                "FEA Basics",
+                "Stress Analysis",
+                "Run Simulations"
+            ],
+            "month_5": [
+                "Advanced Modeling",
+                "Surface Design",
+                "Build Complex Assemblies"
+            ],
+            "month_6": [
+                "Product Design",
+                "Manufacturing Considerations",
+                "Complete Design Project"
+            ]
+        }
+    },
+    {
+        "name": "Thermal Engineer",
+        "domain": "Mechanical Engineering",
+        "required_skills": [
+            "thermodynamics",
+            "heat transfer",
+            "cfd",
+            "ansys",
+            "matlab"
+        ],
+        "preferred_skills": [
+            "hvac",
+            "refrigeration",
+            "energy systems",
+            "simulation"
+        ],
+        "tools": [
+            "ansys fluent",
+            "matlab",
+            "solidworks flow simulation",
+            "comsol"
+        ],
+        "trending_2025": [
+            "energy efficiency",
+            "renewable energy",
+            "thermal management",
+            "battery cooling"
+        ],
+        "market_demand": "Medium",
+        "recommended_courses": [
+            "Thermodynamics - NPTEL",
+            "Heat Transfer - edX",
+            "CFD with ANSYS - Udemy",
+            "HVAC Design - Coursera"
+        ],
+        "free_internships": [
+            "Energy Companies",
+            "HVAC Companies",
+            "Research Labs"
+        ],
+        "certifications": [
+            "ANSYS Fluent Certification",
+            "HVAC Design Professional"
+        ],
+        "mini_projects": [
+            "Heat Sink Design & Analysis",
+            "HVAC System Design",
+            "Solar Water Heater Design",
+            "Battery Thermal Management",
+            "Refrigeration System Analysis"
+        ],
+        "learning_roadmap": {
+            "month_1": [
+                "Thermodynamics Fundamentals",
+                "Heat Transfer Basics"
+            ],
+            "month_2": [
+                "CFD Basics",
+                "ANSYS Fluent Introduction",
+                "Run Simple Simulations"
+            ],
+            "month_3": [
+                "HVAC Systems",
+                "Refrigeration Cycles",
+                "Design HVAC System"
+            ],
+            "month_4": [
+                "Thermal Analysis",
+                "Heat Exchanger Design",
+                "Build Thermal Projects"
+            ],
+            "month_5": [
+                "Energy Systems",
+                "Renewable Energy",
+                "Solar/Wind Projects"
+            ],
+            "month_6": [
+                "Advanced Simulations",
+                "Optimization",
+                "Complete Thermal Project"
+            ]
+        }
+    },
+    {
+        "name": "Automation Engineer",
+        "domain": "Mechanical Engineering",
+        "required_skills": [
+            "plc programming",
+            "scada",
+            "robotics",
+            "control systems",
+            "electrical basics"
+        ],
+        "preferred_skills": [
+            "hmi",
+            "industrial iot",
+            "python",
+            "machine vision"
+        ],
+        "tools": [
+            "siemens tia portal",
+            "allen bradley",
+            "labview",
+            "matlab",
+            "python"
+        ],
+        "trending_2025": [
+            "industry 4.0",
+            "collaborative robots",
+            "digital twin",
+            "edge computing"
+        ],
+        "market_demand": "High",
+        "recommended_courses": [
+            "PLC Programming - Udemy",
+            "Industrial Automation - NPTEL",
+            "Robotics - Coursera",
+            "Control Systems - edX"
+        ],
+        "free_internships": [
+            "Manufacturing Plants",
+            "Automation Companies",
+            "AICTE Automation Internship"
+        ],
+        "certifications": [
+            "Siemens Certified Programmer",
+            "Rockwell Automation Certification",
+            "Certified Automation Professional (CAP)"
+        ],
+        "mini_projects": [
+            "Conveyor Belt Automation",
+            "Robotic Arm Control",
+            "Temperature Control System",
+            "Automated Sorting System",
+            "SCADA System Design"
+        ],
+        "learning_roadmap": {
+            "month_1": [
+                "PLC Basics",
+                "Ladder Logic",
+                "Build Simple PLC Programs"
+            ],
+            "month_2": [
+                "SCADA Basics",
+                "HMI Design",
+                "Build SCADA Project"
+            ],
+            "month_3": [
+                "Control Systems",
+                "PID Controllers",
+                "Build Control Projects"
+            ],
+            "month_4": [
+                "Robotics Basics",
+                "Robot Programming",
+                "Build Robotic Project"
+            ],
+            "month_5": [
+                "Industrial IoT",
+                "Data Acquisition",
+                "Build IoT Project"
+            ],
+            "month_6": [
+                "Industry 4.0",
+                "Integration",
+                "Build Complete Automation System"
+            ]
+        }
+    },
+    {
+        "name": "Structural Engineer",
+        "domain": "Civil Engineering",
+        "required_skills": [
+            "structural analysis",
+            "autocad",
+            "staad pro",
+            "rcc design",
+            "steel design"
+        ],
+        "preferred_skills": [
+            "etabs",
+            "sap2000",
+            "revit",
+            "seismic design",
+            "foundation design"
+        ],
+        "tools": [
+            "staad pro",
+            "etabs",
+            "autocad",
+            "revit",
+            "sap2000"
+        ],
+        "trending_2025": [
+            "bim",
+            "sustainable design",
+            "prefabrication",
+            "performance-based design"
+        ],
+        "market_demand": "High",
+        "recommended_courses": [
+            "Structural Analysis - NPTEL",
+            "RCC Design - edX",
+            "STAAD Pro - Udemy",
+            "BIM with Revit - Autodesk"
+        ],
+        "free_internships": [
+            "Construction Companies",
+            "Consulting Firms",
+            "Government Projects"
+        ],
+        "certifications": [
+            "STAAD Pro Certification",
+            "Revit Structure Certification",
+            "Professional Engineer (PE) License"
+        ],
+        "mini_projects": [
+            "Residential Building Design",
+            "Bridge Design & Analysis",
+            "Retaining Wall Design",
+            "Foundation Design",
+            "Seismic Analysis of Structure"
+        ],
+        "learning_roadmap": {
+            "month_1": [
+                "Structural Analysis Basics",
+                "Load Calculations",
+                "Manual Calculations"
+            ],
+            "month_2": [
+                "STAAD Pro Basics",
+                "Beam & Column Design",
+                "Build Simple Structures"
+            ],
+            "month_3": [
+                "RCC Design",
+                "IS Codes",
+                "Design RCC Elements"
+            ],
+            "month_4": [
+                "Steel Design",
+                "Connection Design",
+                "Build Steel Structures"
+            ],
+            "month_5": [
+                "Advanced Analysis",
+                "Seismic Design",
+                "Build Complex Structures"
+            ],
+            "month_6": [
+                "BIM",
+                "Revit Structure",
+                "Complete Building Design"
+            ]
+        }
+    },
+    {
+        "name": "Transportation Engineer",
+        "domain": "Civil Engineering",
+        "required_skills": [
+            "traffic engineering",
+            "highway design",
+            "autocad",
+            "transportation planning",
+            "surveying"
+        ],
+        "preferred_skills": [
+            "gis",
+            "traffic simulation",
+            "pavement design",
+            "transportation modeling"
+        ],
+        "tools": [
+            "autocad civil 3d",
+            "arcgis",
+            "vissim",
+            "synchro",
+            "hcs"
+        ],
+        "trending_2025": [
+            "smart cities",
+            "autonomous vehicles",
+            "sustainable transport",
+            "mobility as a service"
+        ],
+        "market_demand": "Medium",
+        "recommended_courses": [
+            "Transportation Engineering - NPTEL",
+            "Highway Design - edX",
+            "GIS for Transportation - Coursera",
+            "Traffic Engineering - Udemy"
+        ],
+        "free_internships": [
+            "Municipal Corporations",
+            "Highway Authorities",
+            "Urban Planning Departments"
+        ],
+        "certifications": [
+            "Professional Traffic Operations Engineer (PTOE)",
+            "GIS Professional Certification"
+        ],
+        "mini_projects": [
+            "Traffic Signal Design",
+            "Highway Geometric Design",
+            "Intersection Analysis",
+            "Pavement Design",
+            "Public Transport Route Planning"
+        ],
+        "learning_roadmap": {
+            "month_1": [
+                "Traffic Engineering Basics",
+                "Traffic Flow Theory",
+                "Data Collection"
+            ],
+            "month_2": [
+                "Highway Design",
+                "Geometric Design",
+                "AutoCAD Civil 3D"
+            ],
+            "month_3": [
+                "Traffic Simulation",
+                "VISSIM",
+                "Build Simulation Models"
+            ],
+            "month_4": [
+                "GIS Basics",
+                "ArcGIS",
+                "Spatial Analysis"
+            ],
+            "month_5": [
+                "Transportation Planning",
+                "Demand Modeling",
+                "Build Planning Projects"
+            ],
+            "month_6": [
+                "Smart Cities",
+                "ITS",
+                "Complete Transportation Project"
+            ]
+        }
+    },
+    {
+        "name": "Environmental Engineer",
+        "domain": "Civil Engineering",
+        "required_skills": [
+            "water treatment",
+            "waste management",
+            "environmental impact assessment",
+            "autocad",
+            "chemistry"
+        ],
+        "preferred_skills": [
+            "air pollution control",
+            "sustainability",
+            "gis",
+            "environmental modeling"
+        ],
+        "tools": [
+            "autocad",
+            "arcgis",
+            "epanet",
+            "matlab",
+            "excel"
+        ],
+        "trending_2025": [
+            "circular economy",
+            "carbon capture",
+            "green infrastructure",
+            "climate resilience"
+        ],
+        "market_demand": "Medium",
+        "recommended_courses": [
+            "Environmental Engineering - NPTEL",
+            "Water Treatment - edX",
+            "Sustainability - Coursera",
+            "GIS for Environment - Udemy"
+        ],
+        "free_internships": [
+            "Pollution Control Boards",
+            "NGOs",
+            "Environmental Consulting Firms"
+        ],
+        "certifications": [
+            "LEED Green Associate",
+            "Certified Environmental Professional (CEP)"
+        ],
+        "mini_projects": [
+            "Water Treatment Plant Design",
+            "Solid Waste Management Plan",
+            "Air Quality Monitoring System",
+            "EIA Report",
+            "Rainwater Harvesting System"
+        ],
+        "learning_roadmap": {
+            "month_1": [
+                "Environmental Science Basics",
+                "Water Quality",
+                "Sampling Methods"
+            ],
+            "month_2": [
+                "Water Treatment",
+                "Treatment Processes",
+                "Design Treatment System"
+            ],
+            "month_3": [
+                "Waste Management",
+                "Solid & Hazardous Waste",
+                "Build Management Plan"
+            ],
+            "month_4": [
+                "Air Pollution",
+                "Control Technologies",
+                "Air Quality Projects"
+            ],
+            "month_5": [
+                "EIA",
+                "Impact Assessment",
+                "Prepare EIA Report"
+            ],
+            "month_6": [
+                "Sustainability",
+                "Green Technologies",
+                "Complete Environmental Project"
+            ]
+        }
+    },
+    {
+        "name": "Power Systems Engineer",
+        "domain": "Electrical Engineering",
+        "required_skills": [
+            "power systems",
+            "electrical machines",
+            "protection",
+            "matlab",
+            "circuit analysis"
+        ],
+        "preferred_skills": [
+            "scada",
+            "renewable energy",
+            "power electronics",
+            "grid integration"
+        ],
+        "tools": [
+            "matlab",
+            "etap",
+            "pscad",
+            "autocad electrical",
+            "psse"
+        ],
+        "trending_2025": [
+            "smart grid",
+            "renewable integration",
+            "energy storage",
+            "ev charging infrastructure"
+        ],
+        "market_demand": "High",
+        "recommended_courses": [
+            "Power Systems - NPTEL",
+            "Renewable Energy - Coursera",
+            "MATLAB for Power Systems - Udemy",
+            "Smart Grid - edX"
+        ],
+        "free_internships": [
+            "Power Generation Companies",
+            "Transmission Companies",
+            "Renewable Energy Companies"
+        ],
+        "certifications": [
+            "Power Systems Professional Certificate",
+            "ETAP Certification"
+        ],
+        "mini_projects": [
+            "Load Flow Analysis",
+            "Protection Relay Coordination",
+            "Solar PV System Design",
+            "Microgrid Design",
+            "Power Quality Analysis"
+        ],
+        "learning_roadmap": {
+            "month_1": [
+                "Power Systems Basics",
+                "AC Circuits",
+                "Three-Phase Systems"
+            ],
+            "month_2": [
+                "Electrical Machines",
+                "Transformers",
+                "Motors & Generators"
+            ],
+            "month_3": [
+                "Power System Analysis",
+                "Load Flow",
+                "MATLAB Simulations"
+            ],
+            "month_4": [
+                "Protection Systems",
+                "Relay Coordination",
+                "Build Protection Schemes"
+            ],
+            "month_5": [
+                "Renewable Energy",
+                "Solar/Wind",
+                "Grid Integration"
+            ],
+            "month_6": [
+                "Smart Grid",
+                "SCADA",
+                "Complete Power System Project"
+            ]
+        }
+    },
+    {
+        "name": "Control Systems Engineer",
+        "domain": "Electrical Engineering",
+        "required_skills": [
+            "control theory",
+            "matlab",
+            "simulink",
+            "pid controllers",
+            "state space"
+        ],
+        "preferred_skills": [
+            "plc",
+            "scada",
+            "robotics",
+            "model predictive control"
+        ],
+        "tools": [
+            "matlab",
+            "simulink",
+            "labview",
+            "python",
+            "plc software"
+        ],
+        "trending_2025": [
+            "ai in control",
+            "autonomous systems",
+            "digital twins",
+            "adaptive control"
+        ],
+        "market_demand": "High",
+        "recommended_courses": [
+            "Control Systems - NPTEL",
+            "MATLAB & Simulink - MathWorks",
+            "Modern Control - edX",
+            "Robotics Control - Coursera"
+        ],
+        "free_internships": [
+            "Automation Companies",
+            "Robotics Labs",
+            "Manufacturing Plants"
+        ],
+        "certifications": [
+            "MATLAB Certified Professional",
+            "Control Systems Professional Certificate"
+        ],
+        "mini_projects": [
+            "PID Controller Design",
+            "Inverted Pendulum Control",
+            "Motor Speed Control",
+            "Temperature Control System",
+            "Quadcopter Stabilization"
+        ],
+        "learning_roadmap": {
+            "month_1": [
+                "Control Theory Basics",
+                "Transfer Functions",
+                "Block Diagrams"
+            ],
+            "month_2": [
+                "PID Controllers",
+                "Tuning Methods",
+                "Build PID Projects"
+            ],
+            "month_3": [
+                "State Space",
+                "Modern Control",
+                "MATLAB Simulations"
+            ],
+            "month_4": [
+                "Digital Control",
+                "Discrete Systems",
+                "Build Digital Controllers"
+            ],
+            "month_5": [
+                "Advanced Control",
+                "Optimal Control",
+                "Build Advanced Projects"
+            ],
+            "month_6": [
+                "Robotics Control",
+                "Autonomous Systems",
+                "Complete Control Project"
+            ]
+        }
+    },
+    {
+        "name": "Electronics Design Engineer",
+        "domain": "Electrical Engineering",
+        "required_skills": [
+            "circuit design",
+            "pcb design",
+            "analog electronics",
+            "digital electronics",
+            "microcontrollers"
+        ],
+        "preferred_skills": [
+            "power electronics",
+            "signal integrity",
+            "emc",
+            "embedded systems"
+        ],
+        "tools": [
+            "altium designer",
+            "eagle",
+            "ltspice",
+            "kicad",
+            "oscilloscope"
+        ],
+        "trending_2025": [
+            "iot hardware",
+            "wearables",
+            "power management",
+            "wireless charging"
+        ],
+        "market_demand": "High",
+        "recommended_courses": [
+            "Electronics Fundamentals - NPTEL",
+            "PCB Design - Udemy",
+            "Analog Circuit Design - edX",
+            "Power Electronics - Coursera"
+        ],
+        "free_internships": [
+            "Electronics Companies",
+            "Startups",
+            "Research Labs"
+        ],
+        "certifications": [
+            "IPC Certified Designer",
+            "Altium Designer Certification"
+        ],
+        "mini_projects": [
+            "Power Supply Design",
+            "Audio Amplifier",
+            "Motor Driver Circuit",
+            "IoT Sensor Board",
+            "Battery Management System"
+        ],
+        "learning_roadmap": {
+            "month_1": [
+                "Circuit Analysis",
+                "Ohm's Law",
+                "Basic Components"
+            ],
+            "month_2": [
+                "Analog Electronics",
+                "Op-Amps",
+                "Build Analog Circuits"
+            ],
+            "month_3": [
+                "Digital Electronics",
+                "Logic Gates",
+                "Build Digital Circuits"
+            ],
+            "month_4": [
+                "PCB Design",
+                "Altium/Eagle",
+                "Design PCBs"
+            ],
+            "month_5": [
+                "Microcontrollers",
+                "Embedded C",
+                "Build Embedded Projects"
+            ],
+            "month_6": [
+                "Advanced Topics",
+                "Power Electronics",
+                "Complete Design Project"
+            ]
+        }
+    },
+    {
+        "name": "Chemical Process Engineer",
+        "domain": "Chemical Engineering",
+        "required_skills": [
+            "process design",
+            "mass & energy balance",
+            "thermodynamics",
+            "fluid mechanics",
+            "aspen plus"
+        ],
+        "preferred_skills": [
+            "process simulation",
+            "safety",
+            "optimization",
+            "process control"
+        ],
+        "tools": [
+            "aspen plus",
+            "aspen hysys",
+            "matlab",
+            "autocad",
+            "excel"
+        ],
+        "trending_2025": [
+            "green chemistry",
+            "process intensification",
+            "digitalization",
+            "carbon capture"
+        ],
+        "market_demand": "Medium",
+        "recommended_courses": [
+            "Chemical Engineering - NPTEL",
+            "Process Design - edX",
+            "Aspen Plus - Udemy",
+            "Process Safety - Coursera"
+        ],
+        "free_internships": [
+            "Chemical Plants",
+            "Refineries",
+            "Pharmaceutical Companies"
+        ],
+        "certifications": [
+            "Professional Engineer (PE) - Chemical",
+            "Aspen Plus Certification"
+        ],
+        "mini_projects": [
+            "Distillation Column Design",
+            "Heat Exchanger Network",
+            "Reactor Design",
+            "Process Flow Diagram",
+            "Mass Balance Calculations"
+        ],
+        "learning_roadmap": {
+            "month_1": [
+                "Chemical Engineering Basics",
+                "Material Balance",
+                "Energy Balance"
+            ],
+            "month_2": [
+                "Thermodynamics",
+                "Phase Equilibria",
+                "VLE Calculations"
+            ],
+            "month_3": [
+                "Fluid Mechanics",
+                "Pump & Piping Design",
+                "Build Fluid Projects"
+            ],
+            "month_4": [
+                "Process Simulation",
+                "Aspen Plus",
+                "Simulate Processes"
+            ],
+            "month_5": [
+                "Unit Operations",
+                "Distillation",
+                "Design Unit Operations"
+            ],
+            "month_6": [
+                "Process Design",
+                "PFD & P&ID",
+                "Complete Process Design"
+            ]
+        }
+    }
+]

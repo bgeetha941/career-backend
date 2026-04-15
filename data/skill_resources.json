@@ -1,0 +1,342 @@
+{
+    "python": {
+        "courses": [
+            "Python for Everybody - Coursera (Free)",
+            "Learn Python - Codecademy (Free)",
+            "Python Tutorial - W3Schools (Free)"
+        ],
+        "internships": [
+            "Google Summer of Code (Python Projects)",
+            "Python Software Foundation Internships",
+            "Internshala Python Development"
+        ],
+        "projects": [
+            "Build a Web Scraper",
+            "Create REST API with Flask",
+            "Data Analysis Dashboard"
+        ]
+    },
+    "java": {
+        "courses": [
+            "Java Programming - Coursera (Free Audit)",
+            "Java Tutorial - Oracle (Free)",
+            "Learn Java - Codecademy (Free)"
+        ],
+        "internships": [
+            "Google Summer of Code (Java Projects)",
+            "Apache Software Foundation",
+            "Internshala Java Development"
+        ],
+        "projects": [
+            "Build a Banking System",
+            "Create E-commerce Backend",
+            "Develop Android App"
+        ]
+    },
+    "javascript": {
+        "courses": [
+            "JavaScript Basics - freeCodeCamp (Free)",
+            "JavaScript.info - Complete Tutorial (Free)",
+            "Eloquent JavaScript - Free Book"
+        ],
+        "internships": [
+            "Outreachy (Web Development)",
+            "MLH Fellowship",
+            "Internshala Web Development"
+        ],
+        "projects": [
+            "Interactive To-Do App",
+            "Weather Dashboard",
+            "Portfolio Website"
+        ]
+    },
+    "react": {
+        "courses": [
+            "React - The Complete Guide - Udemy",
+            "React Tutorial - Official Docs (Free)",
+            "freeCodeCamp React Course (Free)"
+        ],
+        "internships": [
+            "Meta Open Source Programs",
+            "Frontend Mentor Challenges",
+            "Internshala React Development"
+        ],
+        "projects": [
+            "Netflix Clone UI",
+            "E-commerce Product Page",
+            "Social Media Dashboard"
+        ]
+    },
+    "node.js": {
+        "courses": [
+            "Node.js Tutorial - W3Schools (Free)",
+            "Learn Node.js - Codecademy (Free)",
+            "Node.js Complete Guide - Udemy"
+        ],
+        "internships": [
+            "Node.js Foundation Programs",
+            "Backend Development Internships",
+            "Internshala Node.js Projects"
+        ],
+        "projects": [
+            "RESTful API with Authentication",
+            "Real-time Chat Server",
+            "File Upload Service"
+        ]
+    },
+    "docker": {
+        "courses": [
+            "Docker for Beginners - KodeKloud (Free)",
+            "Docker Tutorial - Official Docs (Free)",
+            "Docker Mastery - Udemy"
+        ],
+        "internships": [
+            "CNCF Internships",
+            "DevOps Internships",
+            "Cloud Infrastructure Projects"
+        ],
+        "projects": [
+            "Containerize Full Stack App",
+            "Multi-container Application",
+            "Docker Compose Setup"
+        ]
+    },
+    "kubernetes": {
+        "courses": [
+            "Kubernetes for Beginners - KodeKloud (Free)",
+            "Introduction to Kubernetes - edX (Free)",
+            "Kubernetes Tutorial - Official Docs"
+        ],
+        "internships": [
+            "CNCF Mentorship",
+            "Linux Foundation Internships",
+            "Cloud Native Projects"
+        ],
+        "projects": [
+            "Deploy Microservices on K8s",
+            "Setup K8s Cluster",
+            "Helm Chart Creation"
+        ]
+    },
+    "aws": {
+        "courses": [
+            "AWS Cloud Practitioner - AWS Training (Free)",
+            "AWS Fundamentals - Coursera (Free)",
+            "AWS Tutorial - freeCodeCamp (Free)"
+        ],
+        "internships": [
+            "AWS Educate Programs",
+            "Cloud Computing Internships",
+            "DevOps AWS Projects"
+        ],
+        "projects": [
+            "Deploy App on EC2",
+            "S3 Static Website Hosting",
+            "Lambda Serverless Function"
+        ]
+    },
+    "sql": {
+        "courses": [
+            "SQL for Data Science - Coursera (Free)",
+            "Learn SQL - Codecademy (Free)",
+            "SQL Tutorial - W3Schools (Free)"
+        ],
+        "internships": [
+            "Database Administration Internships",
+            "Data Analysis Projects",
+            "Backend Development Roles"
+        ],
+        "projects": [
+            "Design Database Schema",
+            "Build Query Optimization System",
+            "Create Data Analytics Dashboard"
+        ]
+    },
+    "mongodb": {
+        "courses": [
+            "MongoDB University - Free Courses",
+            "MongoDB Tutorial - Official Docs (Free)",
+            "NoSQL Databases - Coursera (Free)"
+        ],
+        "internships": [
+            "MongoDB Internship Programs",
+            "Backend Development Projects",
+            "Database Engineering Roles"
+        ],
+        "projects": [
+            "Build CRUD API with MongoDB",
+            "User Authentication System",
+            "Blog Platform Backend"
+        ]
+    },
+    "machine learning": {
+        "courses": [
+            "Machine Learning - Andrew Ng Coursera (Free)",
+            "ML Crash Course - Google (Free)",
+            "Fast.ai Practical ML (Free)"
+        ],
+        "internships": [
+            "Google AI Residency",
+            "Kaggle Competitions",
+            "AICTE ML Internships"
+        ],
+        "projects": [
+            "House Price Prediction",
+            "Image Classification Model",
+            "Sentiment Analysis System"
+        ]
+    },
+    "deep learning": {
+        "courses": [
+            "Deep Learning Specialization - Coursera",
+            "Deep Learning - Fast.ai (Free)",
+            "Neural Networks - 3Blue1Brown (Free)"
+        ],
+        "internships": [
+            "OpenAI Scholars",
+            "AI Research Labs",
+            "Deep Learning Projects"
+        ],
+        "projects": [
+            "CNN Image Classifier",
+            "RNN Text Generator",
+            "Object Detection System"
+        ]
+    },
+    "git": {
+        "courses": [
+            "Git & GitHub - freeCodeCamp (Free)",
+            "Version Control with Git - Coursera (Free)",
+            "Learn Git Branching - Interactive (Free)"
+        ],
+        "internships": [
+            "Open Source Contributions",
+            "GitHub Campus Experts",
+            "Any Software Development Role"
+        ],
+        "projects": [
+            "Contribute to Open Source",
+            "Manage Team Project with Git",
+            "Setup CI/CD Pipeline"
+        ]
+    },
+    "microservices": {
+        "courses": [
+            "Microservices Architecture - Coursera",
+            "Building Microservices - Udemy",
+            "Microservices Tutorial - Microsoft (Free)"
+        ],
+        "internships": [
+            "Backend Architecture Roles",
+            "Cloud Native Development",
+            "Enterprise Software Projects"
+        ],
+        "projects": [
+            "Build E-commerce Microservices",
+            "Service Mesh Implementation",
+            "API Gateway Setup"
+        ]
+    },
+    "rest api": {
+        "courses": [
+            "REST API Design - Udemy",
+            "API Development - freeCodeCamp (Free)",
+            "RESTful Web Services - Coursera"
+        ],
+        "internships": [
+            "Backend Development Internships",
+            "API Development Projects",
+            "Full Stack Roles"
+        ],
+        "projects": [
+            "Build RESTful API",
+            "API Documentation with Swagger",
+            "Rate Limiting Implementation"
+        ]
+    },
+    "ci/cd": {
+        "courses": [
+            "CI/CD Pipeline - Coursera (Free)",
+            "Jenkins Tutorial - Official Docs (Free)",
+            "DevOps CI/CD - Udemy"
+        ],
+        "internships": [
+            "DevOps Internships",
+            "Cloud Infrastructure Roles",
+            "Automation Projects"
+        ],
+        "projects": [
+            "Setup Jenkins Pipeline",
+            "GitHub Actions Workflow",
+            "Automated Testing Pipeline"
+        ]
+    },
+    "flutter": {
+        "courses": [
+            "Flutter & Dart - Complete Guide - Udemy",
+            "Flutter Tutorial - Official Docs (Free)",
+            "Flutter Course - freeCodeCamp (Free)"
+        ],
+        "internships": [
+            "Mobile App Development Internships",
+            "Cross-platform Development",
+            "Startup Mobile Projects"
+        ],
+        "projects": [
+            "Todo App with Firebase",
+            "E-commerce Mobile App",
+            "Social Media Clone"
+        ]
+    },
+    "android": {
+        "courses": [
+            "Android Development - Google Codelabs (Free)",
+            "Android Basics - Udacity (Free)",
+            "Kotlin for Android - Coursera"
+        ],
+        "internships": [
+            "Google Summer of Code (Android)",
+            "Android App Development Internships",
+            "Mobile Development Roles"
+        ],
+        "projects": [
+            "Weather App",
+            "News Reader App",
+            "Fitness Tracker"
+        ]
+    },
+    "data structures": {
+        "courses": [
+            "Data Structures - freeCodeCamp (Free)",
+            "Algorithms - Princeton Coursera (Free)",
+            "DSA in Python - GeeksforGeeks (Free)"
+        ],
+        "internships": [
+            "Software Engineering Internships",
+            "Competitive Programming",
+            "Tech Company Roles"
+        ],
+        "projects": [
+            "Implement Common Data Structures",
+            "Solve LeetCode Problems",
+            "Build Algorithm Visualizer"
+        ]
+    },
+    "algorithms": {
+        "courses": [
+            "Algorithms Specialization - Coursera (Free)",
+            "Algorithm Design - MIT OCW (Free)",
+            "Competitive Programming - CodeChef"
+        ],
+        "internships": [
+            "Software Development Internships",
+            "Research Projects",
+            "Tech Interviews Preparation"
+        ],
+        "projects": [
+            "Sorting Algorithm Visualizer",
+            "Graph Algorithm Implementation",
+            "Dynamic Programming Solutions"
+        ]
+    }
+}

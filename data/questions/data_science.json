@@ -1,0 +1,303 @@
+{
+    "name": "Data Science & ML",
+    "domain": "Data Science",
+    "description": "Test your Data Science, Machine Learning, and Analytics skills.",
+    "duration": 30,
+    "total_marks": 20,
+    "sections": {
+        "technical": {
+            "weight": 60,
+            "label": "Technical Skills"
+        },
+        "aptitude": {
+            "weight": 25,
+            "label": "Aptitude & Logic"
+        },
+        "interview": {
+            "weight": 15,
+            "label": "Interview Readiness"
+        }
+    },
+    "questions": [
+        {
+            "id": 1,
+            "section": "technical",
+            "skill": "Python",
+            "question": "Which Python library is primarily used for data manipulation and analysis?",
+            "options": [
+                "NumPy",
+                "Pandas",
+                "Matplotlib",
+                "Scikit-learn"
+            ],
+            "correct_answer": "Pandas",
+            "explanation": "Pandas provides DataFrames and Series for structured data manipulation and analysis."
+        },
+        {
+            "id": 2,
+            "section": "technical",
+            "skill": "Statistics",
+            "question": "What is the difference between population and sample standard deviation?",
+            "options": [
+                "Population uses N, sample uses N-1",
+                "They are the same",
+                "Sample uses N, population uses N-1",
+                "Neither uses N"
+            ],
+            "correct_answer": "Population uses N, sample uses N-1",
+            "explanation": "Sample std dev uses N-1 (Bessel's correction) to provide an unbiased estimate."
+        },
+        {
+            "id": 3,
+            "section": "technical",
+            "skill": "Machine Learning",
+            "question": "Which algorithm is best suited for a binary classification problem?",
+            "options": [
+                "Linear Regression",
+                "Logistic Regression",
+                "K-Means Clustering",
+                "PCA"
+            ],
+            "correct_answer": "Logistic Regression",
+            "explanation": "Logistic regression is designed for binary classification, outputting probabilities between 0 and 1."
+        },
+        {
+            "id": 4,
+            "section": "technical",
+            "skill": "Feature Engineering",
+            "question": "What is 'one-hot encoding' used for?",
+            "options": [
+                "Encrypting data",
+                "Converting categorical variables to numerical",
+                "Reducing dimensions",
+                "Normalizing data"
+            ],
+            "correct_answer": "Converting categorical variables to numerical",
+            "explanation": "One-hot encoding creates binary columns for each category, making categorical data usable by ML models."
+        },
+        {
+            "id": 5,
+            "section": "technical",
+            "skill": "Deep Learning",
+            "question": "What is the vanishing gradient problem?",
+            "options": [
+                "Weights become infinity",
+                "Gradients become extremely small during backpropagation",
+                "Model overfits",
+                "Data is lost"
+            ],
+            "correct_answer": "Gradients become extremely small during backpropagation",
+            "explanation": "In deep networks, gradients can shrink exponentially through layers, preventing effective weight updates."
+        },
+        {
+            "id": 6,
+            "section": "technical",
+            "skill": "SQL",
+            "question": "Which SQL function returns the number of rows matching a condition?",
+            "options": [
+                "SUM()",
+                "COUNT()",
+                "AVG()",
+                "MAX()"
+            ],
+            "correct_answer": "COUNT()",
+            "explanation": "COUNT() returns the number of rows that match a specified condition."
+        },
+        {
+            "id": 7,
+            "section": "technical",
+            "skill": "Data Visualization",
+            "question": "When should you use a box plot?",
+            "options": [
+                "To show trends over time",
+                "To display distribution and detect outliers",
+                "To show proportions",
+                "To display correlation"
+            ],
+            "correct_answer": "To display distribution and detect outliers",
+            "explanation": "Box plots show median, quartiles, and outliers — ideal for understanding data distribution."
+        },
+        {
+            "id": 8,
+            "section": "technical",
+            "skill": "Model Evaluation",
+            "question": "When is F1-score preferred over accuracy?",
+            "options": [
+                "Always",
+                "When classes are balanced",
+                "When classes are imbalanced",
+                "Never"
+            ],
+            "correct_answer": "When classes are imbalanced",
+            "explanation": "F1-score balances precision and recall, making it more informative for imbalanced datasets."
+        },
+        {
+            "id": 9,
+            "section": "technical",
+            "skill": "NLP",
+            "question": "What does TF-IDF measure in text processing?",
+            "options": [
+                "Grammar correctness",
+                "Word importance relative to a document corpus",
+                "Sentence length",
+                "Translation accuracy"
+            ],
+            "correct_answer": "Word importance relative to a document corpus",
+            "explanation": "TF-IDF measures how important a word is to a document relative to its frequency across all documents."
+        },
+        {
+            "id": 10,
+            "section": "technical",
+            "skill": "NumPy",
+            "question": "What is the primary advantage of NumPy arrays over Python lists for numerical operations?",
+            "options": [
+                "More flexible types",
+                "Vectorized operations and speed",
+                "Better string handling",
+                "Built-in plotting"
+            ],
+            "correct_answer": "Vectorized operations and speed",
+            "explanation": "NumPy arrays support vectorized operations that are much faster than Python loops on lists."
+        },
+        {
+            "id": 11,
+            "section": "technical",
+            "skill": "Overfitting",
+            "question": "Which technique helps prevent overfitting in a neural network?",
+            "options": [
+                "Adding more layers",
+                "Dropout regularization",
+                "Increasing learning rate",
+                "Removing validation set"
+            ],
+            "correct_answer": "Dropout regularization",
+            "explanation": "Dropout randomly disables neurons during training, preventing the network from over-relying on specific features."
+        },
+        {
+            "id": 12,
+            "section": "technical",
+            "skill": "Scikit-learn",
+            "question": "What is the correct order in a scikit-learn ML pipeline?",
+            "options": [
+                "Predict → Fit → Transform",
+                "Fit → Predict → Transform",
+                "Transform → Fit → Predict",
+                "Fit → Transform → Predict"
+            ],
+            "correct_answer": "Fit → Transform → Predict",
+            "explanation": "Fit learns parameters, Transform applies them to data, then Predict generates output."
+        },
+        {
+            "id": 13,
+            "section": "aptitude",
+            "skill": "Problem Solving",
+            "question": "A dataset has 10000 records with 5% missing values. How many complete records remain if missing values are randomly distributed across rows?",
+            "options": [
+                "9500",
+                "Depends on column count",
+                "9000",
+                "Cannot determine without more info"
+            ],
+            "correct_answer": "Cannot determine without more info",
+            "explanation": "Without knowing how many columns are affected, we cannot determine exactly how many rows have missing values."
+        },
+        {
+            "id": 14,
+            "section": "aptitude",
+            "skill": "Logical Reasoning",
+            "question": "If precision is 0.9 and recall is 0.6, what can you conclude?",
+            "options": [
+                "Model catches most positives",
+                "Model has few false positives but misses many positives",
+                "Model is perfect",
+                "Model has high accuracy"
+            ],
+            "correct_answer": "Model has few false positives but misses many positives",
+            "explanation": "High precision (0.9) = few false positives. Low recall (0.6) = many actual positives are missed."
+        },
+        {
+            "id": 15,
+            "section": "aptitude",
+            "skill": "Data Interpretation",
+            "question": "A model's training accuracy is 99% but test accuracy is 60%. What is the most likely issue?",
+            "options": [
+                "Underfitting",
+                "Overfitting",
+                "Data leakage",
+                "Feature scaling"
+            ],
+            "correct_answer": "Overfitting",
+            "explanation": "Large gap between train (99%) and test (60%) accuracy is a classic sign of overfitting."
+        },
+        {
+            "id": 16,
+            "section": "aptitude",
+            "skill": "Mathematical Reasoning",
+            "question": "If a linear regression model has R² = 0.85, what percentage of variance is unexplained?",
+            "options": [
+                "85%",
+                "15%",
+                "0.85%",
+                "1.5%"
+            ],
+            "correct_answer": "15%",
+            "explanation": "R² = 0.85 means 85% of variance is explained, so 15% remains unexplained."
+        },
+        {
+            "id": 17,
+            "section": "aptitude",
+            "skill": "Estimation",
+            "question": "You have a 1GB CSV file. Approximately how many rows does it have if each row is 500 bytes?",
+            "options": [
+                "500,000",
+                "1,000,000",
+                "2,000,000",
+                "10,000,000"
+            ],
+            "correct_answer": "2,000,000",
+            "explanation": "1GB = 1,073,741,824 bytes. Divided by 500 bytes/row ≈ 2,000,000 rows."
+        },
+        {
+            "id": 18,
+            "section": "interview",
+            "skill": "Project Discussion",
+            "question": "How should you explain an ML model's performance to a non-technical stakeholder?",
+            "options": [
+                "Show the confusion matrix",
+                "Use business metrics and real-world impact",
+                "Explain the math behind the algorithm",
+                "Show raw accuracy numbers only"
+            ],
+            "correct_answer": "Use business metrics and real-world impact",
+            "explanation": "Stakeholders care about business impact — 'Our model reduces fraud by 30%' is better than 'F1-score is 0.85'."
+        },
+        {
+            "id": 19,
+            "section": "interview",
+            "skill": "Ethics",
+            "question": "Your ML model performs well overall but poorly for a specific demographic. What should you do?",
+            "options": [
+                "Ignore it, overall accuracy is fine",
+                "Investigate bias in training data and model fairness",
+                "Remove that demographic from the dataset",
+                "Report only overall metrics"
+            ],
+            "correct_answer": "Investigate bias in training data and model fairness",
+            "explanation": "ML fairness requires investigating and mitigating biases to ensure equitable outcomes for all groups."
+        },
+        {
+            "id": 20,
+            "section": "interview",
+            "skill": "Communication",
+            "question": "During a DS interview, you're asked to solve a problem with a technique you haven't used. Best approach?",
+            "options": [
+                "Say you can't do it",
+                "Describe the theoretical approach and discuss alternatives you know",
+                "Guess randomly",
+                "Ask to skip the question"
+            ],
+            "correct_answer": "Describe the theoretical approach and discuss alternatives you know",
+            "explanation": "Showing theoretical understanding and offering alternatives demonstrates problem-solving ability."
+        }
+    ]
+}
