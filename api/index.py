@@ -24,11 +24,17 @@ app = Flask(__name__)
 CORS(app, resources={r"/api/*": {"origins": "*"}}, expose_headers=["Authorization"], allow_headers=["*"])
 
 # Configuration
-app.config['SECRET_KEY'] = 'your-secret-key-change-in-production'
-app.config['JWT_SECRET_KEY'] = 'your-secret-key-change-in-production'
+app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'your-secret-key-change-in-production')
+app.config['JWT_SECRET_KEY'] = os.environ.get('JWT_SECRET_KEY', 'your-secret-key-change-in-production')
 app.config['JWT_ACCESS_TOKEN_EXPIRES'] = timedelta(days=30)
 app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024  # 16MB max file size
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///leanleap.db'
+
+# Support for SQLite on Vercel (Read-only filesystem fix)
+if os.environ.get('VERCEL'):
+    app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:////tmp/leanleap.db'
+else:
+    app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///leanleap.db'
+
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
 jwt = JWTManager(app)
@@ -38,8 +44,9 @@ db.init_app(app)
 resume_parser = ResumeParser()
 jd_parser = JobDescriptionParser()
 career_analyzer = CareerAnalyzer()
-# You should add your GEMINI_API_KEY to your environment or replace here
-GEMINI_API_KEY = "AIzaSyAvUPwj4N9gxZE9lkEMmIeaXHIu762MSmo" 
+
+# Use Environment Variable for Security
+GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY', "AIzaSyAvUPwj4N9gxZE9lkEMmIeaXHIu762MSmo") 
 ai_career_analyzer = AICareerAnalyzer(api_key=GEMINI_API_KEY)
 
 # Register Blueprints
