@@ -1,0 +1,7 @@
+id,name,provider,amount,deadline,eligibility,apply_link,stream,category
+scholarship_0,Google Generation Scholarship,Google,5000,2024-12-31,Computer Science students,https://buildyourfuture.withgoogle.com/,Engineering,Merit-based
+scholarship_1,Rhodes Scholarship,Rhodes Trust,30000,2024-10-01,Postgraduate students,https://www.rhodeshouse.ox.ac.uk/,All,Merit-based
+scholarship_2,Fulbright-Nehru Master's Fellowships,USIEF,25000,2024-06-15,Bachelor's degree holders,https://www.usief.org.in/,All,Exchange
+scholarship_3,Narotam Sekhsaria Scholarship,Narotam Sekhsaria Foundation,20000,2024-03-20,High academic achievement,https://pg.nsfoundation.co.in/,Engineering,Merit-cum-Means
+scholarship_4,HDFC Badhte Kadam Scholarship,HDFC Bank,1000,2024-08-31,Underprivileged students,https://www.buddy4study.com/,All,Need-based
+scholarship_5,TATA Scholarship for Cornell University,Tata Education and Development Trust,55000,2024-01-01,Indian students admitted to Cornell,https://admissions.cornell.edu/,All,Need-based

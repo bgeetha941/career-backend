@@ -1,0 +1,303 @@
+{
+    "name": "Chemical Engineering",
+    "domain": "Chemical",
+    "description": "Evaluate your knowledge in Thermodynamics, Fluid Mechanics, Heat & Mass Transfer.",
+    "duration": 30,
+    "total_marks": 20,
+    "sections": {
+        "technical": {
+            "weight": 60,
+            "label": "Technical Skills"
+        },
+        "aptitude": {
+            "weight": 25,
+            "label": "Aptitude & Logic"
+        },
+        "interview": {
+            "weight": 15,
+            "label": "Interview Readiness"
+        }
+    },
+    "questions": [
+        {
+            "id": 1,
+            "section": "technical",
+            "skill": "Thermodynamics",
+            "question": "The First Law of Thermodynamics deals with:",
+            "options": [
+                "Entropy",
+                "Conservation of Energy",
+                "Absolute Zero",
+                "Direction of Process"
+            ],
+            "correct_answer": "Conservation of Energy",
+            "explanation": "The First Law states energy cannot be created or destroyed, only transformed."
+        },
+        {
+            "id": 2,
+            "section": "technical",
+            "skill": "Fluid Mechanics",
+            "question": "Reynolds number indicates the ratio of:",
+            "options": [
+                "Inertial forces to Viscous forces",
+                "Viscous forces to Inertial forces",
+                "Gravity forces to Viscous forces",
+                "Pressure forces to Surface tension"
+            ],
+            "correct_answer": "Inertial forces to Viscous forces",
+            "explanation": "Re = (Inertial Forces) / (Viscous Forces). It predicts flow regime (Laminar/Turbulent)."
+        },
+        {
+            "id": 3,
+            "section": "technical",
+            "skill": "Heat Transfer",
+            "question": "Fourier's Law describes heat transfer by:",
+            "options": [
+                "Convection",
+                "Radiation",
+                "Conduction",
+                "Evaporation"
+            ],
+            "correct_answer": "Conduction",
+            "explanation": "Fourier's Law states the rate of heat conduction is proportional to the area and temperature gradient."
+        },
+        {
+            "id": 4,
+            "section": "technical",
+            "skill": "Mass Transfer",
+            "question": "Distillation separates components based on differences in:",
+            "options": [
+                "Density",
+                "Boiling Point / Volatility",
+                "Solubility",
+                "Particle Size"
+            ],
+            "correct_answer": "Boiling Point / Volatility",
+            "explanation": "Distillation exploits differences in relative volatility (boiling points) of components."
+        },
+        {
+            "id": 5,
+            "section": "technical",
+            "skill": "Chemical Reaction Engineering",
+            "question": "For a first-order reaction, the half-life depends on:",
+            "options": [
+                "Initial concentration",
+                "Rate constant only",
+                "Temperature only",
+                "Pressure"
+            ],
+            "correct_answer": "Rate constant only",
+            "explanation": "t1/2 = 0.693 / k. It is independent of initial concentration for 1st order."
+        },
+        {
+            "id": 6,
+            "section": "technical",
+            "skill": "Process Control",
+            "question": "What is the primary function of a PID controller?",
+            "options": [
+                "To measure temperature",
+                "To maintain a process variable at a setpoint",
+                "To open valves",
+                "To shut down the plant"
+            ],
+            "correct_answer": "To maintain a process variable at a setpoint",
+            "explanation": "PID controllers adjust output to minimize error between process variable and setpoint."
+        },
+        {
+            "id": 7,
+            "section": "technical",
+            "skill": "Thermodynamics",
+            "question": "Entropy of an isolated system always:",
+            "options": [
+                "Decreases",
+                "Remains constant",
+                "Increases",
+                "Becomes zero"
+            ],
+            "correct_answer": "Increases",
+            "explanation": "Second Law: Entropy of an isolated system never decreases; it increases for irreversible processes."
+        },
+        {
+            "id": 8,
+            "section": "technical",
+            "skill": "Fluid Mechanics",
+            "question": "Bernoulli's equation is applicable for:",
+            "options": [
+                "Viscous flow",
+                "Compressible flow",
+                "Inviscid, incompressible flow",
+                "Turbulent flow"
+            ],
+            "correct_answer": "Inviscid, incompressible flow",
+            "explanation": "Bernoulli's principle assumes ideal flow: steady, incompressible, inviscid, and irrotational."
+        },
+        {
+            "id": 9,
+            "section": "technical",
+            "skill": "Heat Transfer",
+            "question": "Which mode of heat transfer requires no medium?",
+            "options": [
+                "Conduction",
+                "Convection",
+                "Radiation",
+                "Advection"
+            ],
+            "correct_answer": "Radiation",
+            "explanation": "Thermal radiation propagates via electromagnetic waves and needs no material medium."
+        },
+        {
+            "id": 10,
+            "section": "technical",
+            "skill": "Chemical Reaction Engineering",
+            "question": "A CSTR acts as a:",
+            "options": [
+                "Plug flow reactor",
+                "Perfectly mixed reactor",
+                "Batch reactor",
+                "Semibatch reactor"
+            ],
+            "correct_answer": "Perfectly mixed reactor",
+            "explanation": "CSTR (Continuous Stirred-Tank Reactor) assumes perfect mixing uniform properties throughout."
+        },
+        {
+            "id": 11,
+            "section": "technical",
+            "skill": "Process Safety",
+            "question": "What does 'HAZOP' stand for?",
+            "options": [
+                "Hazard and Operability Study",
+                "Hazardous Operation",
+                "Hazard Optimization",
+                "Hazard Observation"
+            ],
+            "correct_answer": "Hazard and Operability Study",
+            "explanation": "HAZOP is a systematic technique to identify potential hazards and operability problems."
+        },
+        {
+            "id": 12,
+            "section": "technical",
+            "skill": "Mass Transfer",
+            "question": "Fick's Law governs:",
+            "options": [
+                "Heat transfer",
+                "Momentum transfer",
+                "Diffusion mass transfer",
+                "Radiation"
+            ],
+            "correct_answer": "Diffusion mass transfer",
+            "explanation": "Fick's Law states varying concentration causes diffusion from high to low concentration."
+        },
+        {
+            "id": 13,
+            "section": "aptitude",
+            "skill": "Problem Solving",
+            "question": "A tank fills in 10h. A leak empties it in 20h. If both open, how long to fill?",
+            "options": [
+                "10h",
+                "15h",
+                "20h",
+                "30h"
+            ],
+            "correct_answer": "20h",
+            "explanation": "Rate = 1/10 - 1/20 = 1/20. So 20 hours to fill."
+        },
+        {
+            "id": 14,
+            "section": "aptitude",
+            "skill": "Logical Reasoning",
+            "question": "Catalyst : Reaction :: ?",
+            "options": [
+                "Fuel : Fire",
+                "Enzyme : Digestion",
+                "Brake : Car",
+                "Food : Hunger"
+            ],
+            "correct_answer": "Enzyme : Digestion",
+            "explanation": "A catalyst speeds up a reaction; an enzyme speeds up digestion (biological reaction)."
+        },
+        {
+            "id": 15,
+            "section": "aptitude",
+            "skill": "Data Interpretation",
+            "question": "Yield is 80%. 100 moles reactant gives theoretical 100 moles product. Actual product?",
+            "options": [
+                "80 moles",
+                "100 moles",
+                "20 moles",
+                "125 moles"
+            ],
+            "correct_answer": "80 moles",
+            "explanation": "Actual = Theoretical * Yield = 100 * 0.8 = 80 moles."
+        },
+        {
+            "id": 16,
+            "section": "aptitude",
+            "skill": "Time Management",
+            "question": "Batch A takes 2h, Batch B takes 3h. You have one reactor. Min time for both?",
+            "options": [
+                "2h",
+                "3h",
+                "5h",
+                "6h"
+            ],
+            "correct_answer": "5h",
+            "explanation": "Sequential processing: 2 + 3 = 5 hours."
+        },
+        {
+            "id": 17,
+            "section": "aptitude",
+            "skill": "Pattern Recognition",
+            "question": "Pressure (bar): 1, 10, 100, ?",
+            "options": [
+                "200",
+                "1000",
+                "500",
+                "110"
+            ],
+            "correct_answer": "1000",
+            "explanation": "Powers of 10: 10^0, 10^1, 10^2 -> 10^3 = 1000."
+        },
+        {
+            "id": 18,
+            "section": "interview",
+            "skill": "Technical Explanation",
+            "question": "Explain the difference between PFD and P&ID.",
+            "options": [
+                "No difference",
+                "PFD is simple flow; P&ID has detailed piping/instrumentation",
+                "P&ID is for electrical",
+                "PFD is for safety"
+            ],
+            "correct_answer": "PFD is simple flow; P&ID has detailed piping/instrumentation",
+            "explanation": "PFD (Process Flow Diagram) shows main flow. P&ID (Piping & Instrumentation Diagram) shows every pipe, valve, and sensor."
+        },
+        {
+            "id": 19,
+            "section": "interview",
+            "skill": "Safety",
+            "question": "What is the first step in case of a chemical spill?",
+            "options": [
+                "Run away",
+                "Identify the chemical and consult MSDS",
+                "Pour water",
+                "Call parents"
+            ],
+            "correct_answer": "Identify the chemical and consult MSDS",
+            "explanation": "Safety first: Know what spilled by checking the Material Safety Data Sheet (MSDS) before acting."
+        },
+        {
+            "id": 20,
+            "section": "interview",
+            "skill": "Project Discussion",
+            "question": "How do you scale up a process from lab to plant?",
+            "options": [
+                "Multiply everything by 1000",
+                "Use dimensional analysis and similarity",
+                "Just build it big",
+                "Guess"
+            ],
+            "correct_answer": "Use dimensional analysis and similarity",
+            "explanation": "Scale-up requires maintaining geometric, kinematic, and dynamic similarity using dimensionless numbers."
+        }
+    ]
+}

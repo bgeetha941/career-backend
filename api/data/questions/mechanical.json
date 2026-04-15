@@ -1,0 +1,303 @@
+{
+    "name": "Mechanical Engineering",
+    "domain": "Mechanical",
+    "description": "Test your Mechanical Engineering fundamentals across core subjects and industry readiness.",
+    "duration": 30,
+    "total_marks": 20,
+    "sections": {
+        "technical": {
+            "weight": 60,
+            "label": "Technical Skills"
+        },
+        "aptitude": {
+            "weight": 25,
+            "label": "Aptitude & Logic"
+        },
+        "interview": {
+            "weight": 15,
+            "label": "Interview Readiness"
+        }
+    },
+    "questions": [
+        {
+            "id": 1,
+            "section": "technical",
+            "skill": "Thermodynamics",
+            "question": "Which law of thermodynamics defines entropy?",
+            "options": [
+                "Zeroth Law",
+                "First Law",
+                "Second Law",
+                "Third Law"
+            ],
+            "correct_answer": "Second Law",
+            "explanation": "The Second Law introduces the concept of entropy and states it always increases in an isolated system."
+        },
+        {
+            "id": 2,
+            "section": "technical",
+            "skill": "Fluid Mechanics",
+            "question": "Bernoulli's equation is based on the principle of?",
+            "options": [
+                "Conservation of mass",
+                "Conservation of energy",
+                "Conservation of momentum",
+                "Newton's third law"
+            ],
+            "correct_answer": "Conservation of energy",
+            "explanation": "Bernoulli's equation is derived from the conservation of energy for a flowing fluid."
+        },
+        {
+            "id": 3,
+            "section": "technical",
+            "skill": "Strength of Materials",
+            "question": "What is the ratio of lateral strain to longitudinal strain called?",
+            "options": [
+                "Young's Modulus",
+                "Bulk Modulus",
+                "Poisson's Ratio",
+                "Shear Modulus"
+            ],
+            "correct_answer": "Poisson's Ratio",
+            "explanation": "Poisson's ratio (ν) is the ratio of transverse contraction strain to longitudinal extension strain."
+        },
+        {
+            "id": 4,
+            "section": "technical",
+            "skill": "Manufacturing",
+            "question": "Which manufacturing process is used to produce hollow cylindrical parts?",
+            "options": [
+                "Forging",
+                "Casting",
+                "Centrifugal Casting",
+                "Extrusion"
+            ],
+            "correct_answer": "Centrifugal Casting",
+            "explanation": "Centrifugal casting uses rotation to distribute molten metal, ideal for hollow cylindrical parts like pipes."
+        },
+        {
+            "id": 5,
+            "section": "technical",
+            "skill": "Machine Design",
+            "question": "What is the primary purpose of a flywheel?",
+            "options": [
+                "Increase speed",
+                "Store rotational energy and smooth output",
+                "Generate electricity",
+                "Reduce friction"
+            ],
+            "correct_answer": "Store rotational energy and smooth output",
+            "explanation": "A flywheel stores kinetic energy and releases it to smooth out fluctuations in engine output."
+        },
+        {
+            "id": 6,
+            "section": "technical",
+            "skill": "Heat Transfer",
+            "question": "Which mode of heat transfer does NOT require a medium?",
+            "options": [
+                "Conduction",
+                "Convection",
+                "Radiation",
+                "All require a medium"
+            ],
+            "correct_answer": "Radiation",
+            "explanation": "Radiation transfers heat through electromagnetic waves and does not need any medium."
+        },
+        {
+            "id": 7,
+            "section": "technical",
+            "skill": "CAD/CAM",
+            "question": "What does CAM stand for in manufacturing?",
+            "options": [
+                "Computer Aided Manufacturing",
+                "Computer Automated Machining",
+                "Central Assembly Module",
+                "Computer Aided Modeling"
+            ],
+            "correct_answer": "Computer Aided Manufacturing",
+            "explanation": "CAM uses computer software to control machine tools in manufacturing processes."
+        },
+        {
+            "id": 8,
+            "section": "technical",
+            "skill": "Theory of Machines",
+            "question": "Grashof's law is related to?",
+            "options": [
+                "Thermodynamic cycles",
+                "Four-bar linkage mechanisms",
+                "Fluid flow",
+                "Gear design"
+            ],
+            "correct_answer": "Four-bar linkage mechanisms",
+            "explanation": "Grashof's law determines whether a four-bar linkage has a fully rotating link."
+        },
+        {
+            "id": 9,
+            "section": "technical",
+            "skill": "Material Science",
+            "question": "What is the crystal structure of iron at room temperature?",
+            "options": [
+                "FCC",
+                "BCC",
+                "HCP",
+                "Simple Cubic"
+            ],
+            "correct_answer": "BCC",
+            "explanation": "Iron has a Body-Centered Cubic (BCC) structure (α-iron/ferrite) at room temperature."
+        },
+        {
+            "id": 10,
+            "section": "technical",
+            "skill": "IC Engines",
+            "question": "In a four-stroke engine, during which stroke does combustion occur?",
+            "options": [
+                "Intake",
+                "Compression",
+                "Power",
+                "Exhaust"
+            ],
+            "correct_answer": "Power",
+            "explanation": "Combustion occurs at the end of compression and drives the power (expansion) stroke."
+        },
+        {
+            "id": 11,
+            "section": "technical",
+            "skill": "Vibration",
+            "question": "What happens at resonance in a mechanical system?",
+            "options": [
+                "Amplitude decreases",
+                "Amplitude becomes maximum",
+                "Frequency becomes zero",
+                "System stops vibrating"
+            ],
+            "correct_answer": "Amplitude becomes maximum",
+            "explanation": "At resonance, forced frequency equals natural frequency, causing maximum amplitude of vibration."
+        },
+        {
+            "id": 12,
+            "section": "technical",
+            "skill": "Engineering Drawing",
+            "question": "In a first angle projection, the object is placed in which quadrant?",
+            "options": [
+                "First",
+                "Second",
+                "Third",
+                "Fourth"
+            ],
+            "correct_answer": "First",
+            "explanation": "In first angle projection, the object is in the first quadrant — between the observer and the projection plane."
+        },
+        {
+            "id": 13,
+            "section": "aptitude",
+            "skill": "Problem Solving",
+            "question": "A shaft rotates at 1500 RPM. What is the angular velocity in rad/s?",
+            "options": [
+                "50π",
+                "150π",
+                "75π",
+                "25π"
+            ],
+            "correct_answer": "50π",
+            "explanation": "ω = 2πN/60 = 2π × 1500/60 = 50π rad/s."
+        },
+        {
+            "id": 14,
+            "section": "aptitude",
+            "skill": "Numerical Ability",
+            "question": "A steel rod of length 2m expands by 0.5mm when heated. What is the strain?",
+            "options": [
+                "0.00025",
+                "0.0025",
+                "0.025",
+                "0.25"
+            ],
+            "correct_answer": "0.00025",
+            "explanation": "Strain = ΔL/L = 0.5mm / 2000mm = 0.00025."
+        },
+        {
+            "id": 15,
+            "section": "aptitude",
+            "skill": "Logical Reasoning",
+            "question": "If increasing temperature increases ductility, and ductility reduces hardness, what happens to hardness when temperature rises?",
+            "options": [
+                "Increases",
+                "Decreases",
+                "Remains same",
+                "Cannot determine"
+            ],
+            "correct_answer": "Decreases",
+            "explanation": "Temperature ↑ → Ductility ↑ → Hardness ↓. So hardness decreases."
+        },
+        {
+            "id": 16,
+            "section": "aptitude",
+            "skill": "Data Interpretation",
+            "question": "A pump delivers 50 liters/min. How long to fill a 3000-liter tank?",
+            "options": [
+                "30 min",
+                "60 min",
+                "45 min",
+                "90 min"
+            ],
+            "correct_answer": "60 min",
+            "explanation": "Time = Volume / Flow rate = 3000 / 50 = 60 minutes."
+        },
+        {
+            "id": 17,
+            "section": "aptitude",
+            "skill": "Estimation",
+            "question": "An engine has a thermal efficiency of 40% and receives 1000 kJ of heat. How much work is produced?",
+            "options": [
+                "600 kJ",
+                "400 kJ",
+                "500 kJ",
+                "250 kJ"
+            ],
+            "correct_answer": "400 kJ",
+            "explanation": "Work = Efficiency × Heat input = 0.40 × 1000 = 400 kJ."
+        },
+        {
+            "id": 18,
+            "section": "interview",
+            "skill": "Industry Knowledge",
+            "question": "Which industry standard is used for quality management systems?",
+            "options": [
+                "ISO 9001",
+                "ISO 14001",
+                "ISO 27001",
+                "ISO 45001"
+            ],
+            "correct_answer": "ISO 9001",
+            "explanation": "ISO 9001 is the international standard for Quality Management Systems (QMS)."
+        },
+        {
+            "id": 19,
+            "section": "interview",
+            "skill": "Communication",
+            "question": "How should you describe a design failure in an interview?",
+            "options": [
+                "Blame the team",
+                "Explain what happened, lessons learned, and how you improved",
+                "Avoid discussing failures",
+                "Say it wasn't your fault"
+            ],
+            "correct_answer": "Explain what happened, lessons learned, and how you improved",
+            "explanation": "Discussing failures honestly with lessons learned shows maturity and continuous improvement mindset."
+        },
+        {
+            "id": 20,
+            "section": "interview",
+            "skill": "Project Discussion",
+            "question": "What is the most important aspect when presenting a mechanical design project?",
+            "options": [
+                "CAD screenshots only",
+                "Problem definition, design rationale, analysis, and results",
+                "Cost only",
+                "Team size"
+            ],
+            "correct_answer": "Problem definition, design rationale, analysis, and results",
+            "explanation": "A structured presentation showing the full engineering process demonstrates professional competence."
+        }
+    ]
+}

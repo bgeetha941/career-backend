@@ -1,0 +1,303 @@
+{
+    "name": "Biomedical Engineering",
+    "domain": "Biomedical",
+    "description": "Evaluate your knowledge in Medical Instrumentation, Anatomy, Imaging, and Biomechanics.",
+    "duration": 30,
+    "total_marks": 20,
+    "sections": {
+        "technical": {
+            "weight": 60,
+            "label": "Technical Skills"
+        },
+        "aptitude": {
+            "weight": 25,
+            "label": "Aptitude & Logic"
+        },
+        "interview": {
+            "weight": 15,
+            "label": "Interview Readiness"
+        }
+    },
+    "questions": [
+        {
+            "id": 1,
+            "section": "technical",
+            "skill": "Biomedical Instrumentation",
+            "question": "What does ECG measure?",
+            "options": [
+                "Brain activity",
+                "Heart electrical activity",
+                "Muscle activity",
+                "Eye movement"
+            ],
+            "correct_answer": "Heart electrical activity",
+            "explanation": "Electrocardiogram (ECG) records the electrical signals from the heart."
+        },
+        {
+            "id": 2,
+            "section": "technical",
+            "skill": "Medical Imaging",
+            "question": "MRI uses strong magnetic fields and:",
+            "options": [
+                "X-Rays",
+                "Radio Waves",
+                "Gamma Rays",
+                "Ultrasound"
+            ],
+            "correct_answer": "Radio Waves",
+            "explanation": "MRI uses strong magnets and radio waves to generate images of organs."
+        },
+        {
+            "id": 3,
+            "section": "technical",
+            "skill": "Anatomy",
+            "question": "The largest bone in the human body is?",
+            "options": [
+                "Femur",
+                "Humerus",
+                "Tibia",
+                "Skull"
+            ],
+            "correct_answer": "Femur",
+            "explanation": "The femur (thigh bone) is the longest and strongest bone."
+        },
+        {
+            "id": 4,
+            "section": "technical",
+            "skill": "Biomechanics",
+            "question": "The study of forces acting on the body is:",
+            "options": [
+                "Biochemistry",
+                "Biomechanics",
+                "Bioinformatics",
+                "Genetics"
+            ],
+            "correct_answer": "Biomechanics",
+            "explanation": "Biomechanics applies mechanical principles to biological systems."
+        },
+        {
+            "id": 5,
+            "section": "technical",
+            "skill": "Biomaterials",
+            "question": "A key property for an implant material is:",
+            "options": [
+                "Biocompatibility",
+                "Radioactivity",
+                "Solubility",
+                "High toxicity"
+            ],
+            "correct_answer": "Biocompatibility",
+            "explanation": "Biocompatibility ensures the material does not provoke a toxic or immune response."
+        },
+        {
+            "id": 6,
+            "section": "technical",
+            "skill": "Biomedical Instrumentation",
+            "question": "EEG is used to diagnose:",
+            "options": [
+                "Heart attack",
+                "Epilepsy/Seizures",
+                "Broken bones",
+                "Diabetes"
+            ],
+            "correct_answer": "Epilepsy/Seizures",
+            "explanation": "Electroencephalogram (EEG) detects electrical activity in the brain."
+        },
+        {
+            "id": 7,
+            "section": "technical",
+            "skill": "Medical Imaging",
+            "question": "CT Scan stands for:",
+            "options": [
+                "Computed Tomography",
+                "Cell Testing",
+                "Clinical Trial",
+                "Cold Temperature"
+            ],
+            "correct_answer": "Computed Tomography",
+            "explanation": "CT (Computed Tomography) uses X-rays to create cross-sectional images."
+        },
+        {
+            "id": 8,
+            "section": "technical",
+            "skill": "Medical Safety",
+            "question": "Micro-shock refers to shock delivered directly to:",
+            "options": [
+                "The Skin",
+                "The Heart",
+                "The Brain",
+                "The Feet"
+            ],
+            "correct_answer": "The Heart",
+            "explanation": "Micro-shock is a low current shock applied directly to the heart tissue (via catheter)."
+        },
+        {
+            "id": 9,
+            "section": "technical",
+            "skill": "Prosthetics",
+            "question": "A myoelectric prosthesis is controlled by:",
+            "options": [
+                "Voice",
+                "Muscle signals (EMG)",
+                "Remote control",
+                "Brain waves"
+            ],
+            "correct_answer": "Muscle signals (EMG)",
+            "explanation": "Myoelectric limbs use EMG signals from residual muscles to control movement."
+        },
+        {
+            "id": 10,
+            "section": "technical",
+            "skill": "Biosensors",
+            "question": "A glucose sensor detects levels in:",
+            "options": [
+                "Blood",
+                "Bone",
+                "Hair",
+                "Nails"
+            ],
+            "correct_answer": "Blood",
+            "explanation": "Glucose sensors monitor blood sugar levels, crucial for diabetes management."
+        },
+        {
+            "id": 11,
+            "section": "technical",
+            "skill": "Anatomy",
+            "question": "The main pumping chamber of the heart is:",
+            "options": [
+                "Right Atrium",
+                "Left Ventricle",
+                "Right Ventricle",
+                "Left Atrium"
+            ],
+            "correct_answer": "Left Ventricle",
+            "explanation": "The left ventricle pumps oxygenated blood to the entire body."
+        },
+        {
+            "id": 12,
+            "section": "technical",
+            "skill": "Biomedical Instrumentation",
+            "question": "A Pulse Oximeter measures:",
+            "options": [
+                "Blood pressure",
+                "Oxygen saturation (SpO2)",
+                "Glucose",
+                "Cholesterol"
+            ],
+            "correct_answer": "Oxygen saturation (SpO2)",
+            "explanation": "Pulse oximeters non-invasively measure blood oxygen saturation."
+        },
+        {
+            "id": 13,
+            "section": "aptitude",
+            "skill": "Problem Solving",
+            "question": "Heart rate is 60 bpm. How many beats in 1 hour?",
+            "options": [
+                "600",
+                "3600",
+                "6000",
+                "100"
+            ],
+            "correct_answer": "3600",
+            "explanation": "60 beats/min * 60 min = 3600 beats."
+        },
+        {
+            "id": 14,
+            "section": "aptitude",
+            "skill": "Logical Reasoning",
+            "question": "Cell : Tissue :: Atom : ?",
+            "options": [
+                "Electron",
+                "Molecule",
+                "Organ",
+                "Nucleus"
+            ],
+            "correct_answer": "Molecule",
+            "explanation": "Group of cells makes tissue; group of atoms makes a molecule."
+        },
+        {
+            "id": 15,
+            "section": "aptitude",
+            "skill": "Data Interpretation",
+            "question": "Normal BP is 120/80. If systolic rises by 10%, new systolic?",
+            "options": [
+                "130",
+                "132",
+                "128",
+                "140"
+            ],
+            "correct_answer": "132",
+            "explanation": "120 + (0.10 * 120) = 120 + 12 = 132."
+        },
+        {
+            "id": 16,
+            "section": "aptitude",
+            "skill": "Time Management",
+            "question": "Surgery takes 4 hours. Prep takes 1h. Recovery 2h. Total time?",
+            "options": [
+                "7h",
+                "6h",
+                "5h",
+                "8h"
+            ],
+            "correct_answer": "7h",
+            "explanation": "1 (Prep) + 4 (Surgery) + 2 (Recovery) = 7 hours."
+        },
+        {
+            "id": 17,
+            "section": "aptitude",
+            "skill": "Pattern Recognition",
+            "question": "DNA Base Pairs: A-T, G-C. If sequence is A-G-T, complement is?",
+            "options": [
+                "T-C-A",
+                "T-G-A",
+                "A-C-T",
+                "U-C-A"
+            ],
+            "correct_answer": "T-C-A",
+            "explanation": "A pairs with T, G pairs with C. So A-G-T -> T-C-A."
+        },
+        {
+            "id": 18,
+            "section": "interview",
+            "skill": "Technical Explanation",
+            "question": "Explain the principle of an X-Ray.",
+            "options": [
+                "Reflection of light",
+                "Differential absorption by tissues",
+                "Magnetic resonance",
+                "Sound echo"
+            ],
+            "correct_answer": "Differential absorption by tissues",
+            "explanation": "Dense tissues (bones) absorb more X-rays than soft tissues, creating contrast."
+        },
+        {
+            "id": 19,
+            "section": "interview",
+            "skill": "Ethics",
+            "question": "Patient data privacy is governed by:",
+            "options": [
+                "No rules",
+                "HIPAA / GDPR",
+                "Facebook policy",
+                "Newspaper"
+            ],
+            "correct_answer": "HIPAA / GDPR",
+            "explanation": "Medical professionals must strictly adhere to privacy laws like HIPAA."
+        },
+        {
+            "id": 20,
+            "section": "interview",
+            "skill": "Project Discussion",
+            "question": "Why did you choose a specific sensor for your project?",
+            "options": [
+                "It was cheap",
+                "It offered high sensitivity and low noise suitable for biological signals",
+                "Random choice",
+                "Teacher said so"
+            ],
+            "correct_answer": "It offered high sensitivity and low noise suitable for biological signals",
+            "explanation": "Justifying component choice based on technical specs (sensitivity, SNR) is crucial."
+        }
+    ]
+}

@@ -1,0 +1,303 @@
+{
+    "name": "Full Stack Development",
+    "domain": "Full Stack",
+    "description": "Test your Full Stack Development skills across frontend, backend, databases, and deployment.",
+    "duration": 30,
+    "total_marks": 20,
+    "sections": {
+        "technical": {
+            "weight": 60,
+            "label": "Technical Skills"
+        },
+        "aptitude": {
+            "weight": 25,
+            "label": "Aptitude & Logic"
+        },
+        "interview": {
+            "weight": 15,
+            "label": "Interview Readiness"
+        }
+    },
+    "questions": [
+        {
+            "id": 1,
+            "section": "technical",
+            "skill": "HTML/CSS",
+            "question": "Which CSS property is used to create a flexible layout that adjusts based on screen size?",
+            "options": [
+                "float",
+                "flexbox",
+                "position",
+                "margin"
+            ],
+            "correct_answer": "flexbox",
+            "explanation": "Flexbox (display: flex) is designed for building responsive, flexible layouts."
+        },
+        {
+            "id": 2,
+            "section": "technical",
+            "skill": "JavaScript",
+            "question": "What does 'async/await' do in JavaScript?",
+            "options": [
+                "Makes code run faster",
+                "Handles asynchronous operations like synchronous code",
+                "Creates new threads",
+                "Pauses the entire program"
+            ],
+            "correct_answer": "Handles asynchronous operations like synchronous code",
+            "explanation": "async/await is syntactic sugar over Promises, making asynchronous code easier to read and write."
+        },
+        {
+            "id": 3,
+            "section": "technical",
+            "skill": "React",
+            "question": "What is the purpose of the 'useEffect' hook in React?",
+            "options": [
+                "State management",
+                "Side effects like API calls and subscriptions",
+                "Rendering UI components",
+                "Routing between pages"
+            ],
+            "correct_answer": "Side effects like API calls and subscriptions",
+            "explanation": "useEffect handles side effects in functional components — API calls, DOM manipulation, subscriptions, etc."
+        },
+        {
+            "id": 4,
+            "section": "technical",
+            "skill": "Node.js",
+            "question": "Which module in Node.js is used to create an HTTP server?",
+            "options": [
+                "fs",
+                "http",
+                "path",
+                "url"
+            ],
+            "correct_answer": "http",
+            "explanation": "The 'http' module provides utilities to create HTTP servers and handle requests."
+        },
+        {
+            "id": 5,
+            "section": "technical",
+            "skill": "REST API",
+            "question": "Which HTTP method is used to update an existing resource?",
+            "options": [
+                "GET",
+                "POST",
+                "PUT",
+                "DELETE"
+            ],
+            "correct_answer": "PUT",
+            "explanation": "PUT is used to update/replace an existing resource at a specific URI."
+        },
+        {
+            "id": 6,
+            "section": "technical",
+            "skill": "SQL",
+            "question": "Which SQL clause is used to filter groups created by GROUP BY?",
+            "options": [
+                "WHERE",
+                "HAVING",
+                "FILTER",
+                "ORDER BY"
+            ],
+            "correct_answer": "HAVING",
+            "explanation": "HAVING filters groups after aggregation, while WHERE filters rows before grouping."
+        },
+        {
+            "id": 7,
+            "section": "technical",
+            "skill": "MongoDB",
+            "question": "What is the equivalent of a 'table' in MongoDB?",
+            "options": [
+                "Document",
+                "Collection",
+                "Schema",
+                "Row"
+            ],
+            "correct_answer": "Collection",
+            "explanation": "In MongoDB, a Collection is analogous to a table in relational databases."
+        },
+        {
+            "id": 8,
+            "section": "technical",
+            "skill": "Git",
+            "question": "What does 'git rebase' do?",
+            "options": [
+                "Deletes a branch",
+                "Moves commits to a new base commit",
+                "Creates a new repository",
+                "Reverts all changes"
+            ],
+            "correct_answer": "Moves commits to a new base commit",
+            "explanation": "Rebase re-applies commits on top of another base tip, creating a linear history."
+        },
+        {
+            "id": 9,
+            "section": "technical",
+            "skill": "Docker",
+            "question": "What file defines instructions to build a Docker image?",
+            "options": [
+                "docker-compose.yml",
+                "Dockerfile",
+                "package.json",
+                "config.yaml"
+            ],
+            "correct_answer": "Dockerfile",
+            "explanation": "A Dockerfile contains a set of instructions that Docker uses to build an image."
+        },
+        {
+            "id": 10,
+            "section": "technical",
+            "skill": "Authentication",
+            "question": "What does JWT stand for?",
+            "options": [
+                "Java Web Token",
+                "JSON Web Token",
+                "JavaScript Web Tool",
+                "JSON Webpack Template"
+            ],
+            "correct_answer": "JSON Web Token",
+            "explanation": "JWT (JSON Web Token) is a compact, self-contained token used for securely transmitting information."
+        },
+        {
+            "id": 11,
+            "section": "technical",
+            "skill": "TypeScript",
+            "question": "What is the main advantage of TypeScript over JavaScript?",
+            "options": [
+                "Faster execution",
+                "Static type checking",
+                "Smaller file size",
+                "Built-in database support"
+            ],
+            "correct_answer": "Static type checking",
+            "explanation": "TypeScript adds static type checking which catches errors at compile time rather than runtime."
+        },
+        {
+            "id": 12,
+            "section": "technical",
+            "skill": "Testing",
+            "question": "What type of testing validates individual functions or methods in isolation?",
+            "options": [
+                "Integration Testing",
+                "Unit Testing",
+                "End-to-End Testing",
+                "Load Testing"
+            ],
+            "correct_answer": "Unit Testing",
+            "explanation": "Unit testing tests individual units of code (functions, methods) in isolation."
+        },
+        {
+            "id": 13,
+            "section": "aptitude",
+            "skill": "Problem Solving",
+            "question": "A web server handles 100 requests/second. If traffic doubles every hour, how many requests/second after 3 hours?",
+            "options": [
+                "300",
+                "400",
+                "600",
+                "800"
+            ],
+            "correct_answer": "800",
+            "explanation": "100 → 200 (1hr) → 400 (2hr) → 800 (3hr). Doubling each hour."
+        },
+        {
+            "id": 14,
+            "section": "aptitude",
+            "skill": "Logical Reasoning",
+            "question": "If all APIs are endpoints, and some endpoints return JSON, which is TRUE?",
+            "options": [
+                "All APIs return JSON",
+                "Some APIs may return JSON",
+                "No API returns JSON",
+                "Endpoints are not APIs"
+            ],
+            "correct_answer": "Some APIs may return JSON",
+            "explanation": "Since all APIs are endpoints and some endpoints return JSON, some APIs may return JSON."
+        },
+        {
+            "id": 15,
+            "section": "aptitude",
+            "skill": "Data Interpretation",
+            "question": "A database query takes 2ms for 1000 rows. If time complexity is O(n log n), approximate time for 10000 rows?",
+            "options": [
+                "20ms",
+                "26.6ms",
+                "30ms",
+                "200ms"
+            ],
+            "correct_answer": "26.6ms",
+            "explanation": "O(n log n): T2 = T1 × (n2 × log(n2)) / (n1 × log(n1)) = 2 × (10000 × 13.3) / (1000 × 10) ≈ 26.6ms"
+        },
+        {
+            "id": 16,
+            "section": "aptitude",
+            "skill": "Time Management",
+            "question": "You need to deploy 3 microservices. Service A takes 2hrs, B takes 3hrs, C takes 1hr. A and C can run in parallel. Minimum total time?",
+            "options": [
+                "6 hours",
+                "5 hours",
+                "4 hours",
+                "3 hours"
+            ],
+            "correct_answer": "5 hours",
+            "explanation": "A and C run in parallel (max 2hrs), then B runs (3hrs). Total: 2 + 3 = 5 hours."
+        },
+        {
+            "id": 17,
+            "section": "aptitude",
+            "skill": "Pattern Recognition",
+            "question": "Find the next in the series: 2, 6, 14, 30, ?",
+            "options": [
+                "46",
+                "60",
+                "62",
+                "58"
+            ],
+            "correct_answer": "62",
+            "explanation": "Pattern: each number = (previous × 2) + 2. So 30 × 2 + 2 = 62."
+        },
+        {
+            "id": 18,
+            "section": "interview",
+            "skill": "System Design",
+            "question": "When designing a URL shortener, which is the most critical consideration?",
+            "options": [
+                "UI Design",
+                "Unique ID generation and collision handling",
+                "Color scheme",
+                "Email notifications"
+            ],
+            "correct_answer": "Unique ID generation and collision handling",
+            "explanation": "The core challenge is generating unique short codes efficiently without collisions at scale."
+        },
+        {
+            "id": 19,
+            "section": "interview",
+            "skill": "Communication",
+            "question": "During a technical interview, the interviewer asks about a technology you don't know. Best approach?",
+            "options": [
+                "Pretend you know it",
+                "Honestly say you don't know but explain related concepts",
+                "Change the topic",
+                "Say nothing"
+            ],
+            "correct_answer": "Honestly say you don't know but explain related concepts",
+            "explanation": "Honesty with willingness to learn and relating to known concepts shows maturity and growth mindset."
+        },
+        {
+            "id": 20,
+            "section": "interview",
+            "skill": "Project Discussion",
+            "question": "What is the best way to explain your project in an interview?",
+            "options": [
+                "List all technologies used",
+                "Use STAR method: Situation, Task, Action, Result",
+                "Read from your resume",
+                "Only discuss the frontend"
+            ],
+            "correct_answer": "Use STAR method: Situation, Task, Action, Result",
+            "explanation": "STAR method provides structured, clear communication about your contributions and impact."
+        }
+    ]
+}

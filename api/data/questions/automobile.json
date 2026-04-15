@@ -1,0 +1,303 @@
+{
+    "name": "Automobile Engineering",
+    "domain": "Automobile",
+    "description": "Evaluate your knowledge in IC Engines, Vehicle Dynamics, Transmission, and EVs.",
+    "duration": 30,
+    "total_marks": 20,
+    "sections": {
+        "technical": {
+            "weight": 60,
+            "label": "Technical Skills"
+        },
+        "aptitude": {
+            "weight": 25,
+            "label": "Aptitude & Logic"
+        },
+        "interview": {
+            "weight": 15,
+            "label": "Interview Readiness"
+        }
+    },
+    "questions": [
+        {
+            "id": 1,
+            "section": "technical",
+            "skill": "IC Engines",
+            "question": "In a 4-stroke engine, power is produced in which stroke?",
+            "options": [
+                "Intake",
+                "Compression",
+                "Power / Expansion",
+                "Exhaust"
+            ],
+            "correct_answer": "Power / Expansion",
+            "explanation": "Fuel combustion expands gases, pushing the piston down to generate power in the Power stroke."
+        },
+        {
+            "id": 2,
+            "section": "technical",
+            "skill": "Transmission",
+            "question": "The function of a differential is:",
+            "options": [
+                "Stop the car",
+                "Allow wheels to rotate at different speeds while turning",
+                "Cool the engine",
+                "Shift gears"
+            ],
+            "correct_answer": "Allow wheels to rotate at different speeds while turning",
+            "explanation": "Differential allows the outer wheel to turn faster than the inner wheel during a turn."
+        },
+        {
+            "id": 3,
+            "section": "technical",
+            "skill": "Vehicle Dynamics",
+            "question": "Oversteer means:",
+            "options": [
+                "Rear wheels lose grip, car spins",
+                "Front wheels lose grip, car goes straight",
+                "Brakes fail",
+                "Car goes too fast"
+            ],
+            "correct_answer": "Rear wheels lose grip, car spins",
+            "explanation": "Oversteer is when the rear tires lose traction before the front tires, causing rotation."
+        },
+        {
+            "id": 4,
+            "section": "technical",
+            "skill": "Braking Systems",
+            "question": "ABS stands for:",
+            "options": [
+                "Automatic Brake System",
+                "Anti-lock Braking System",
+                "Advanced Brake System",
+                "Auto Boost System"
+            ],
+            "correct_answer": "Anti-lock Braking System",
+            "explanation": "ABS prevents wheels from locking up during braking, maintaining steering control."
+        },
+        {
+            "id": 5,
+            "section": "technical",
+            "skill": "Electric Vehicles",
+            "question": "Which battery type is most common in modern EVs?",
+            "options": [
+                "Lead Acid",
+                "Lithium-Ion",
+                "Nickel Cadmium",
+                "Alkaline"
+            ],
+            "correct_answer": "Lithium-Ion",
+            "explanation": "Li-Ion batteries offer high energy density and are standard in modern EVs."
+        },
+        {
+            "id": 6,
+            "section": "technical",
+            "skill": "IC Engines",
+            "question": "Compression ratio is the ratio of:",
+            "options": [
+                "Total volume to Clearance volume",
+                "Clearance volume to Swept volume",
+                "Swept volume to Total volume",
+                "Intake air to Fuel"
+            ],
+            "correct_answer": "Total volume to Clearance volume",
+            "explanation": "CR = (Swept Vol + Clearance Vol) / Clearance Vol."
+        },
+        {
+            "id": 7,
+            "section": "technical",
+            "skill": "Automotive Chassis",
+            "question": "Which suspension system is independent?",
+            "options": [
+                "Leaf Spring",
+                "Solid Axle",
+                "MacPherson Strut",
+                "Rigid Axle"
+            ],
+            "correct_answer": "MacPherson Strut",
+            "explanation": "MacPherson Strut is a widely used independent suspension system."
+        },
+        {
+            "id": 8,
+            "section": "technical",
+            "skill": "Emissions",
+            "question": "Catalytic converters reduce:",
+            "options": [
+                "Noise",
+                "Toxic gases (NOx, CO, HC)",
+                "Fuel consumption",
+                " Vibration"
+            ],
+            "correct_answer": "Toxic gases (NOx, CO, HC)",
+            "explanation": "They convert harmful pollutants into less harmful gases using catalysts like Platinum."
+        },
+        {
+            "id": 9,
+            "section": "technical",
+            "skill": "Transmission",
+            "question": "A clutch is located between:",
+            "options": [
+                "Engine and Gearbox",
+                "Gearbox and Differential",
+                "Differential and Wheels",
+                "Engine and Radiator"
+            ],
+            "correct_answer": "Engine and Gearbox",
+            "explanation": "Clutch engages/disengages power from the engine to the transmission."
+        },
+        {
+            "id": 10,
+            "section": "technical",
+            "skill": "Automotive Electronics",
+            "question": "ECU stands for:",
+            "options": [
+                "Engine Control Unit / Electronic Control Unit",
+                "Electric Car Unit",
+                "Emission Control Unit",
+                "Emergency Control Unit"
+            ],
+            "correct_answer": "Engine Control Unit / Electronic Control Unit",
+            "explanation": "ECU controls various engine actuators based on sensor inputs."
+        },
+        {
+            "id": 11,
+            "section": "technical",
+            "skill": "IC Engines",
+            "question": "Turbochargers are driven by:",
+            "options": [
+                "Engine belt",
+                "Exhaust gases",
+                "Electric motor",
+                "Gears"
+            ],
+            "correct_answer": "Exhaust gases",
+            "explanation": "Turbochargers use waste exhaust energy to spin a turbine and compress intake air."
+        },
+        {
+            "id": 12,
+            "section": "technical",
+            "skill": "Vehicle Dynamics",
+            "question": "Aerodynamic drag depends on velocity squared. If speed doubles, drag?",
+            "options": [
+                "Doubles",
+                "Quadruples",
+                "Halves",
+                "Remains same"
+            ],
+            "correct_answer": "Quadruples",
+            "explanation": "Drag is proportional to V^2. (2V)^2 = 4V^2."
+        },
+        {
+            "id": 13,
+            "section": "aptitude",
+            "skill": "Problem Solving",
+            "question": "Car travels 60km in 1 hour. Average speed?",
+            "options": [
+                "60 km/h",
+                "1 km/min",
+                "Both A and B",
+                "30 km/h"
+            ],
+            "correct_answer": "Both A and B",
+            "explanation": "60 km/h is same as 1 km/min."
+        },
+        {
+            "id": 14,
+            "section": "aptitude",
+            "skill": "Logical Reasoning",
+            "question": "Steering wheel : Car :: Handlebar : ?",
+            "options": [
+                "Bike",
+                "Boat",
+                "Plane",
+                "Train"
+            ],
+            "correct_answer": "Bike",
+            "explanation": "Steering mechanism for a bike is a handlebar."
+        },
+        {
+            "id": 15,
+            "section": "aptitude",
+            "skill": "Data Interpretation",
+            "question": "Fuel economy is 15 km/l. Tank is 40l. Range?",
+            "options": [
+                "600 km",
+                "400 km",
+                "150 km",
+                "1000 km"
+            ],
+            "correct_answer": "600 km",
+            "explanation": "Range = 15 * 40 = 600 km."
+        },
+        {
+            "id": 16,
+            "section": "aptitude",
+            "skill": "Time Management",
+            "question": "Service takes 2 hours. Queue is 3 cars long. Wait time?",
+            "options": [
+                "2h",
+                "6h",
+                "8h",
+                "4h"
+            ],
+            "correct_answer": "6h",
+            "explanation": "3 cars * 2 hours/car = 6 hours."
+        },
+        {
+            "id": 17,
+            "section": "aptitude",
+            "skill": "Pattern Recognition",
+            "question": "Gears: 1, 2, 3, 4, 5. Reverse is usually?",
+            "options": [
+                "Between 1 and 2",
+                "Separate position",
+                "After 5",
+                "Before 1"
+            ],
+            "correct_answer": "Separate position",
+            "explanation": "Reverse is a distinct gear selection, dependent on shift pattern."
+        },
+        {
+            "id": 18,
+            "section": "interview",
+            "skill": "Technical Explanation",
+            "question": "Why are disc brakes preferred over drum brakes?",
+            "options": [
+                "Cheaper",
+                "Better heat dissipation and stopping power",
+                "Look cooler",
+                "Lighter"
+            ],
+            "correct_answer": "Better heat dissipation and stopping power",
+            "explanation": "Discs dissipate heat better, reducing brake fade."
+        },
+        {
+            "id": 19,
+            "section": "interview",
+            "skill": "Future Trends",
+            "question": "What is the biggest challenge for EVs?",
+            "options": [
+                "Speed",
+                "Charging infrastructure and Range anxiety",
+                "Color",
+                "Sound"
+            ],
+            "correct_answer": "Charging infrastructure and Range anxiety",
+            "explanation": "Infrastructure and range limit widespread adoption currently."
+        },
+        {
+            "id": 20,
+            "section": "interview",
+            "skill": "Project Discussion",
+            "question": "Explain the steering mechanism you designed.",
+            "options": [
+                "Rack and Pinion",
+                "Rope",
+                "Just a stick",
+                "Did not design"
+            ],
+            "correct_answer": "Rack and Pinion",
+            "explanation": "Rack and Pinion is the most common steering mechanism; explaining its geometry (Ackermann) is key."
+        }
+    ]
+}

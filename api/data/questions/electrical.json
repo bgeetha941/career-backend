@@ -1,0 +1,303 @@
+{
+    "name": "Electrical Engineering",
+    "domain": "Electrical",
+    "description": "Evaluate your knowledge in Circuits, Machines, Power Systems, and Control Systems.",
+    "duration": 30,
+    "total_marks": 20,
+    "sections": {
+        "technical": {
+            "weight": 60,
+            "label": "Technical Skills"
+        },
+        "aptitude": {
+            "weight": 25,
+            "label": "Aptitude & Logic"
+        },
+        "interview": {
+            "weight": 15,
+            "label": "Interview Readiness"
+        }
+    },
+    "questions": [
+        {
+            "id": 1,
+            "section": "technical",
+            "skill": "Circuit Theory",
+            "question": "Kirchhoff's Current Law (KCL) is based on the conservation of?",
+            "options": [
+                "Energy",
+                "Charge",
+                "Momentum",
+                "Mass"
+            ],
+            "correct_answer": "Charge",
+            "explanation": "KCL states that the sum of currents entering a junction equals the sum leaving, based on conservation of charge."
+        },
+        {
+            "id": 2,
+            "section": "technical",
+            "skill": "Electrical Machines",
+            "question": "Which motor has high starting torque?",
+            "options": [
+                "Synchronous Motor",
+                "DC Series Motor",
+                "DC Shunt Motor",
+                "Induction Motor"
+            ],
+            "correct_answer": "DC Series Motor",
+            "explanation": "DC Series motors provide very high starting torque, making them suitable for traction applications."
+        },
+        {
+            "id": 3,
+            "section": "technical",
+            "skill": "Power Systems",
+            "question": "The purpose of a moderator in a nuclear power plant is to?",
+            "options": [
+                "Absorb neutrons",
+                "Slow down neutrons",
+                "Cool the reactor",
+                "Shield radiation"
+            ],
+            "correct_answer": "Slow down neutrons",
+            "explanation": "A moderator slows down fast neutrons to thermal energies to sustain the chain reaction."
+        },
+        {
+            "id": 4,
+            "section": "technical",
+            "skill": "Control Systems",
+            "question": "Which of the following increases the stability of a system?",
+            "options": [
+                "Positive Feedback",
+                "Negative Feedback",
+                "Open Loop",
+                "High Gain"
+            ],
+            "correct_answer": "Negative Feedback",
+            "explanation": "Negative feedback reduces gain but increases stability and bandwidth."
+        },
+        {
+            "id": 5,
+            "section": "technical",
+            "skill": "Measurements",
+            "question": "Which bridge is used to measure inductance?",
+            "options": [
+                "Wheatstone Bridge",
+                "Maxwell Bridge",
+                "Schering Bridge",
+                "Kelvin Bridge"
+            ],
+            "correct_answer": "Maxwell Bridge",
+            "explanation": "Maxwell's bridge is used for measuring inductance in terms of capacitance."
+        },
+        {
+            "id": 6,
+            "section": "technical",
+            "skill": "Power Electronics",
+            "question": "A Thyristor is a:",
+            "options": [
+                "Unidirectional device",
+                "Bidirectional device",
+                "Linear device",
+                "Passive device"
+            ],
+            "correct_answer": "Unidirectional device",
+            "explanation": "Thyristors (SCRs) conduct current in only one direction (Anode to Cathode)."
+        },
+        {
+            "id": 7,
+            "section": "technical",
+            "skill": "Circuit Theory",
+            "question": "The time constant of an RC circuit is:",
+            "options": [
+                "R/C",
+                "R*C",
+                "C/R",
+                "1/(RC)"
+            ],
+            "correct_answer": "R*C",
+            "explanation": "Time constant (Tau) for an RC circuit is the product of Resistance and Capacitance."
+        },
+        {
+            "id": 8,
+            "section": "technical",
+            "skill": "Electrical Machines",
+            "question": "To change the direction of rotation of a 3-phase induction motor, we must:",
+            "options": [
+                "Swap all three phases",
+                "Swap any two phases",
+                "Increase voltage",
+                "Decrease frequency"
+            ],
+            "correct_answer": "Swap any two phases",
+            "explanation": "Interchanging any two phase connections reverses the rotating magnetic field direction."
+        },
+        {
+            "id": 9,
+            "section": "technical",
+            "skill": "Power Systems",
+            "question": "Which fault is the most common in power systems?",
+            "options": [
+                "Line to Line",
+                "Double Line to Ground",
+                "Single Line to Ground",
+                "Three Phase"
+            ],
+            "correct_answer": "Single Line to Ground",
+            "explanation": "Single Line to Ground (L-G) faults account for 70-80% of all faults."
+        },
+        {
+            "id": 10,
+            "section": "technical",
+            "skill": "Control Systems",
+            "question": "The transfer function is defined for:",
+            "options": [
+                "Linear Time-Invariant Systems",
+                "Non-linear Systems",
+                "Time-Variant Systems",
+                "All Systems"
+            ],
+            "correct_answer": "Linear Time-Invariant Systems",
+            "explanation": "Transfer functions apply only to Linear Time-Invariant (LTI) systems with zero initial conditions."
+        },
+        {
+            "id": 11,
+            "section": "technical",
+            "skill": "Measurements",
+            "question": "A Megger is used to measure:",
+            "options": [
+                "Low Resistance",
+                "Insulation Resistance",
+                "Inductance",
+                "Capacitance"
+            ],
+            "correct_answer": "Insulation Resistance",
+            "explanation": "Megger is a device used to measure very high insulation resistance."
+        },
+        {
+            "id": 12,
+            "section": "technical",
+            "skill": "Power Electronics",
+            "question": "In a buck converter, the output voltage is:",
+            "options": [
+                "Greater than input",
+                "Less than input",
+                "Equal to input",
+                "Inverted"
+            ],
+            "correct_answer": "Less than input",
+            "explanation": "A Buck converter is a step-down DC-DC converter."
+        },
+        {
+            "id": 13,
+            "section": "aptitude",
+            "skill": "Problem Solving",
+            "question": "Two resistors 10Ω and 10Ω are in parallel. Equivalent resistance?",
+            "options": [
+                "20Ω",
+                "10Ω",
+                "5Ω",
+                "0Ω"
+            ],
+            "correct_answer": "5Ω",
+            "explanation": "For equal parallel resistors: R_eq = R/n = 10/2 = 5Ω."
+        },
+        {
+            "id": 14,
+            "section": "aptitude",
+            "skill": "Logical Reasoning",
+            "question": "A fan rotates at 100rpm. If voltage is halved, speed will approximately:",
+            "options": [
+                "Double",
+                "Remain same",
+                "Decrease",
+                "Become zero"
+            ],
+            "correct_answer": "Decrease",
+            "explanation": "Speed of a motor generally depends on voltage; reducing voltage reduces speed and torque."
+        },
+        {
+            "id": 15,
+            "section": "aptitude",
+            "skill": "Data Interpretation",
+            "question": "Efficiency is 90%. Input is 1000W. What is output?",
+            "options": [
+                "900W",
+                "1100W",
+                "100W",
+                "1000W"
+            ],
+            "correct_answer": "900W",
+            "explanation": "Output = Efficiency * Input = 0.90 * 1000 = 900W."
+        },
+        {
+            "id": 16,
+            "section": "aptitude",
+            "skill": "Time Management",
+            "question": "A project requires 5 engineers for 10 days. How many days for 10 engineers?",
+            "options": [
+                "5",
+                "20",
+                "10",
+                "2"
+            ],
+            "correct_answer": "5",
+            "explanation": "Man-days = 5*10 = 50. Days = 50/10 = 5 days."
+        },
+        {
+            "id": 17,
+            "section": "aptitude",
+            "skill": "Pattern Recognition",
+            "question": "Voltage levels: 110V, 220V, 440V, ?",
+            "options": [
+                "660V",
+                "880V",
+                "550V",
+                "1000V"
+            ],
+            "correct_answer": "880V",
+            "explanation": "Doubling sequence: 110 -> 220 -> 440 -> 880."
+        },
+        {
+            "id": 18,
+            "section": "interview",
+            "skill": "Technical Explanation",
+            "question": "Explain the difference between Neutral and Ground.",
+            "options": [
+                "They are the same",
+                "Neutral returns current, Ground is for safety",
+                "Neutral is for safety, Ground returns current",
+                "Both carry high voltage"
+            ],
+            "correct_answer": "Neutral returns current, Ground is for safety",
+            "explanation": "Neutral is the return path for current in a circuit, Ground provides a low-resistance path for fault currents for safety."
+        },
+        {
+            "id": 19,
+            "section": "interview",
+            "skill": "Problem Solving",
+            "question": "How would you improve the power factor of a factory?",
+            "options": [
+                "Add inductors",
+                "Add capacitor banks",
+                "Increase voltage",
+                "Reduce load"
+            ],
+            "correct_answer": "Add capacitor banks",
+            "explanation": "Capacitor banks provide reactive power (VARs) locally, cancelling the inductive lag and improving power factor."
+        },
+        {
+            "id": 20,
+            "section": "interview",
+            "skill": "Project Discussion",
+            "question": "What protection did you use in your power supply project?",
+            "options": [
+                "None",
+                "Fuse and Overvoltage protection",
+                "Only switch",
+                "Only LED"
+            ],
+            "correct_answer": "Fuse and Overvoltage protection",
+            "explanation": "Standard protection includes fuses for overcurrent and MOV/Zener for overvoltage."
+        }
+    ]
+}

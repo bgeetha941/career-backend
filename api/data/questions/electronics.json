@@ -1,0 +1,303 @@
+{
+    "name": "Electronics & Communication",
+    "domain": "Electronics",
+    "description": "Test your Electronics, Communication, and Embedded Systems knowledge.",
+    "duration": 30,
+    "total_marks": 20,
+    "sections": {
+        "technical": {
+            "weight": 60,
+            "label": "Technical Skills"
+        },
+        "aptitude": {
+            "weight": 25,
+            "label": "Aptitude & Logic"
+        },
+        "interview": {
+            "weight": 15,
+            "label": "Interview Readiness"
+        }
+    },
+    "questions": [
+        {
+            "id": 1,
+            "section": "technical",
+            "skill": "Analog Electronics",
+            "question": "What is the function of an operational amplifier in inverting configuration?",
+            "options": [
+                "Amplifies without inversion",
+                "Amplifies and inverts the input signal",
+                "Only filters signals",
+                "Generates oscillations"
+            ],
+            "correct_answer": "Amplifies and inverts the input signal",
+            "explanation": "An inverting op-amp amplifies the input signal and produces an output that is 180° out of phase."
+        },
+        {
+            "id": 2,
+            "section": "technical",
+            "skill": "Digital Electronics",
+            "question": "Which flip-flop is used as a frequency divider?",
+            "options": [
+                "SR Flip-Flop",
+                "D Flip-Flop",
+                "T Flip-Flop",
+                "JK Flip-Flop"
+            ],
+            "correct_answer": "T Flip-Flop",
+            "explanation": "A T flip-flop toggles its output on each clock pulse, effectively dividing the frequency by 2."
+        },
+        {
+            "id": 3,
+            "section": "technical",
+            "skill": "Signals & Systems",
+            "question": "What does the Fourier Transform convert a signal from?",
+            "options": [
+                "Analog to digital",
+                "Time domain to frequency domain",
+                "AC to DC",
+                "Digital to analog"
+            ],
+            "correct_answer": "Time domain to frequency domain",
+            "explanation": "Fourier Transform decomposes a time-domain signal into its constituent frequencies."
+        },
+        {
+            "id": 4,
+            "section": "technical",
+            "skill": "Communication Systems",
+            "question": "In AM modulation, what determines the bandwidth?",
+            "options": [
+                "Carrier frequency",
+                "Twice the message signal frequency",
+                "Power",
+                "Antenna length"
+            ],
+            "correct_answer": "Twice the message signal frequency",
+            "explanation": "AM bandwidth = 2 × maximum message frequency (upper + lower sidebands)."
+        },
+        {
+            "id": 5,
+            "section": "technical",
+            "skill": "Microprocessor",
+            "question": "What is the word length of the 8086 microprocessor?",
+            "options": [
+                "4-bit",
+                "8-bit",
+                "16-bit",
+                "32-bit"
+            ],
+            "correct_answer": "16-bit",
+            "explanation": "The 8086 is a 16-bit microprocessor with a 20-bit address bus."
+        },
+        {
+            "id": 6,
+            "section": "technical",
+            "skill": "Embedded Systems",
+            "question": "What is an interrupt in embedded systems?",
+            "options": [
+                "A software bug",
+                "A signal that temporarily halts normal execution to handle a priority event",
+                "A power failure",
+                "A type of memory"
+            ],
+            "correct_answer": "A signal that temporarily halts normal execution to handle a priority event",
+            "explanation": "Interrupts allow the processor to respond to external/internal events needing immediate attention."
+        },
+        {
+            "id": 7,
+            "section": "technical",
+            "skill": "VLSI",
+            "question": "What is the advantage of CMOS over NMOS technology?",
+            "options": [
+                "Higher speed",
+                "Lower static power dissipation",
+                "Simpler fabrication",
+                "Smaller size"
+            ],
+            "correct_answer": "Lower static power dissipation",
+            "explanation": "CMOS has near-zero static power consumption since complementary transistors ensure no direct DC path."
+        },
+        {
+            "id": 8,
+            "section": "technical",
+            "skill": "Control Systems",
+            "question": "What does a Bode plot display?",
+            "options": [
+                "Time response",
+                "Frequency response (magnitude and phase)",
+                "Step response only",
+                "Impulse response only"
+            ],
+            "correct_answer": "Frequency response (magnitude and phase)",
+            "explanation": "Bode plots show magnitude (in dB) and phase (in degrees) as functions of frequency."
+        },
+        {
+            "id": 9,
+            "section": "technical",
+            "skill": "Electromagnetic Theory",
+            "question": "Maxwell's equations unify which two phenomena?",
+            "options": [
+                "Heat and light",
+                "Electricity and magnetism",
+                "Sound and light",
+                "Gravity and electricity"
+            ],
+            "correct_answer": "Electricity and magnetism",
+            "explanation": "Maxwell's equations describe how electric and magnetic fields are generated and interact."
+        },
+        {
+            "id": 10,
+            "section": "technical",
+            "skill": "PCB Design",
+            "question": "What is a ground plane in PCB design used for?",
+            "options": [
+                "Aesthetics",
+                "Reducing electromagnetic interference and providing return path",
+                "Adding more components",
+                "Increasing cost"
+            ],
+            "correct_answer": "Reducing electromagnetic interference and providing return path",
+            "explanation": "Ground planes reduce EMI, provide low-impedance return paths, and improve signal integrity."
+        },
+        {
+            "id": 11,
+            "section": "technical",
+            "skill": "Network Analysis",
+            "question": "Kirchhoff's Current Law (KCL) states that?",
+            "options": [
+                "Sum of voltages in a loop is zero",
+                "Sum of currents at a node is zero",
+                "Power is conserved",
+                "Resistance is constant"
+            ],
+            "correct_answer": "Sum of currents at a node is zero",
+            "explanation": "KCL: The algebraic sum of currents entering and leaving a node equals zero."
+        },
+        {
+            "id": 12,
+            "section": "technical",
+            "skill": "Sensors",
+            "question": "Which sensor is commonly used for temperature measurement in industrial applications?",
+            "options": [
+                "LDR",
+                "Thermocouple",
+                "Proximity sensor",
+                "Gyroscope"
+            ],
+            "correct_answer": "Thermocouple",
+            "explanation": "Thermocouples are widely used in industrial temperature measurement due to their wide range and durability."
+        },
+        {
+            "id": 13,
+            "section": "aptitude",
+            "skill": "Problem Solving",
+            "question": "A resistor network has three 6Ω resistors in parallel. What is the equivalent resistance?",
+            "options": [
+                "18Ω",
+                "6Ω",
+                "2Ω",
+                "3Ω"
+            ],
+            "correct_answer": "2Ω",
+            "explanation": "1/Req = 1/6 + 1/6 + 1/6 = 3/6 = 1/2. So Req = 2Ω."
+        },
+        {
+            "id": 14,
+            "section": "aptitude",
+            "skill": "Numerical Ability",
+            "question": "A signal is sampled at 44.1 kHz. According to Nyquist theorem, maximum signal frequency that can be reconstructed?",
+            "options": [
+                "44.1 kHz",
+                "22.05 kHz",
+                "88.2 kHz",
+                "11.025 kHz"
+            ],
+            "correct_answer": "22.05 kHz",
+            "explanation": "Nyquist: Max frequency = Sampling rate / 2 = 44.1/2 = 22.05 kHz."
+        },
+        {
+            "id": 15,
+            "section": "aptitude",
+            "skill": "Logical Reasoning",
+            "question": "If a NAND gate receives inputs A=1 and B=1, the output is?",
+            "options": [
+                "0",
+                "1",
+                "Undefined",
+                "Both 0 and 1"
+            ],
+            "correct_answer": "0",
+            "explanation": "NAND(1,1) = NOT(AND(1,1)) = NOT(1) = 0."
+        },
+        {
+            "id": 16,
+            "section": "aptitude",
+            "skill": "Data Interpretation",
+            "question": "A battery provides 12V and the circuit draws 2A. If efficiency is 80%, useful power output is?",
+            "options": [
+                "24W",
+                "19.2W",
+                "12W",
+                "9.6W"
+            ],
+            "correct_answer": "19.2W",
+            "explanation": "Total power = V × I = 24W. Useful power = 24 × 0.8 = 19.2W."
+        },
+        {
+            "id": 17,
+            "section": "aptitude",
+            "skill": "Estimation",
+            "question": "An ADC has 10-bit resolution and 5V reference. What is the smallest voltage change it can detect?",
+            "options": [
+                "5mV",
+                "4.88mV",
+                "10mV",
+                "0.5mV"
+            ],
+            "correct_answer": "4.88mV",
+            "explanation": "Resolution = Vref / 2^n = 5V / 1024 ≈ 4.88mV."
+        },
+        {
+            "id": 18,
+            "section": "interview",
+            "skill": "Industry Knowledge",
+            "question": "What is IoT in the context of electronics engineering?",
+            "options": [
+                "A programming language",
+                "Interconnected devices exchanging data over the internet",
+                "A type of circuit",
+                "Internet of Transistors"
+            ],
+            "correct_answer": "Interconnected devices exchanging data over the internet",
+            "explanation": "IoT (Internet of Things) connects physical devices with sensors and software for data exchange."
+        },
+        {
+            "id": 19,
+            "section": "interview",
+            "skill": "Communication",
+            "question": "When explaining a circuit design to a non-technical person, best approach?",
+            "options": [
+                "Use technical jargon",
+                "Use analogies and focus on what the circuit does, not how",
+                "Show the schematic",
+                "Skip the explanation"
+            ],
+            "correct_answer": "Use analogies and focus on what the circuit does, not how",
+            "explanation": "Analogies (like water flow for current) make complex concepts accessible to non-technical audiences."
+        },
+        {
+            "id": 20,
+            "section": "interview",
+            "skill": "Project Discussion",
+            "question": "What should you highlight when discussing an embedded system project?",
+            "options": [
+                "Only the code",
+                "Problem, hardware selection rationale, challenges, and outcomes",
+                "Cost only",
+                "How long it took"
+            ],
+            "correct_answer": "Problem, hardware selection rationale, challenges, and outcomes",
+            "explanation": "A structured discussion of the full engineering process demonstrates comprehensive understanding."
+        }
+    ]
+}
